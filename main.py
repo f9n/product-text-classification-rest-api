@@ -47,3 +47,8 @@ def perform_healthcheck():
 @app.get("/{cat}")
 async def read_item(cat: str):
     return quotes.scrapedata(cat)
+
+@app.post("/classification")
+async def classsfication_the_data():
+    return "Okey"
+
