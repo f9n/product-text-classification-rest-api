@@ -1,0 +1,4 @@
+fastapi==0.75.2
+gunicorn==20.1.0
+uvicorn==0.17.6
+scikit-learn==1.0.2
