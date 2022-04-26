@@ -1,4 +1,4 @@
-from fastapi import FastAPI, status
+from fastapi import FastAPI, status, Body
 from fastapi.responses import RedirectResponse
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -6,7 +6,7 @@ from scraper import Scraper
 
 quotes = Scraper()
 
-app = FastAPI()
+app = FastAPI(title="Product Text Classification Rest API")
 
 app.add_middleware(
     CORSMiddleware,
@@ -44,11 +44,17 @@ def perform_healthcheck():
     """
     return {"healthcheck": "Everything OK!"}
 
-@app.get("/{cat}")
-async def read_item(cat: str):
-    return quotes.scrapedata(cat)
+@app.get("/{text}")
+async def read_item(text: str):
+    return quotes.scrapedata(text)
 
 @app.post("/classification")
-async def classsfication_the_data():
-    return "Okey"
+async def classification_on_the_texts(texts: list[str] = Body(..)):
+    print(texts)
+    results = []
+    for text in texts:
+        result = quotes.scrapedata(text)
+        results.append(result)
+ 
+    return results
 
