@@ -16,15 +16,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/", include_in_schema=False)
 async def index():
     return RedirectResponse("/docs")
 
+
 @app.get("/ping")
 async def pong():
-    return {
-        "ping": "pong!"
-    }
+    return {"ping": "pong!"}
+
 
 @app.get("/healthcheck", status_code=status.HTTP_200_OK)
 def perform_healthcheck():
@@ -44,17 +45,19 @@ def perform_healthcheck():
     """
     return {"healthcheck": "Everything OK!"}
 
+
 @app.get("/{text}")
 async def read_item(text: str):
+    print(text)
     return quotes.scrapedata(text)
 
+
 @app.post("/classification")
-async def classification_on_the_texts(texts: list[str] = Body(..)):
+async def classification_on_the_texts(texts: list[str] = Body(...)):
     print(texts)
     results = []
     for text in texts:
         result = quotes.scrapedata(text)
         results.append(result)
- 
-    return results
 
+    return results
