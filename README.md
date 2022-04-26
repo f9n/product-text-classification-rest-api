@@ -6,7 +6,7 @@ Product Text Classification Rest Api
 
 - [ ] Yeni kategoriler eklenecek.
 - [ ] Veri seti genisletilecek.
-- [ ] /classification endpoint'e liste seklinde product text'leri istek atilacak, rest-api de list seklinde product kategorileri donecek.
+- [x] /classification endpoint'e liste seklinde product text'leri istek atilacak, rest-api de list seklinde product kategorileri donecek.
 
 <!-- anyio==3.5.0
 asgiref==3.5.0
