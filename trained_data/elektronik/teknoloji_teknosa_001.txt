@@ -1,0 +1,1306 @@
+
+Tablet Aksesuarı  (1.102)
+Tablet Kılıfı  (1.051)
+Çevre Birimleri  (778)
+Yazıcı, Tarayıcı  (593)
+Kartuş ve Toner  (515)
+Laptop, Notebook  (364)
+Kablo, Çevirici, Çoklayıcı  (272)
+Bilgisayar Bileşenleri  (236)
+Laptop ve Bilgisayar Aksesuarı  (220)
+Mouse  (184)
+Laptop Çantası  (169)
+Oyuncu Bilgisayarı  (155)
+Kablosuz Mouse  (144)
+Veri Depolama  (133)
+Gaming Laptop  (127)
+Monitör, Ekran  (127)
+Masaüstü Bilgisayar  (123)
+Modem ve Ağ Ürünü  (120)
+Tablet  (109)
+USB Bellek  (91)
+Klavye  (82)
+Led Monitör  (74)
+SSD  (72)
+Anakart  (71)
+All In One  (57)
+Kablosuz Klavye  (56)
+IPS Monitör  (51)
+Hazır Sistemler  (51)
+Mouse Pad  (46)
+RAM  (38)
+Menzil Genişletici  (34)
+ADSL Modem  (32)
+Taşınabilir Hard Disk  (32)
+Ekran Kartı  (31)
+Mürekkep Püskürtmeli Yazıcı  (30)
+Gaming Masaüstü  (28)
+Tablet Ekran Koruyucu  (28)
+Kablolu Mouse  (26)
+Wireless Adaptör  (25)
+Lazer Yazıcı  (24)
+Router  (20)
+Yazılım  (19)
+Laptop Ekran Koruyucu  (18)
+Laptop Soğutucu  (17)
+Güç Kaynağı  (16)
+Kablolu Klavye  (15)
+Monitör Aksesuarları  (14)
+Çoklayıcı , Switch  (14)
+Bilgisayar Mikrofonu  (14)
+Tanklı Yazıcı  (13)
+Laptop Adaptör  (11)
+Klavye ve Mouse Seti  (11)
+Webcam  (11)
+Mini Masaüstü  (11)
+Tablet Klavyesi  (10)
+Çevirici  (10)
+Fotoğraf Yazıcısı  (9)
+Ofis Programları  (9)
+Taşınabilir SSD  (9)
+Bilgisayar Kasası  (7)
+Access Point  (7)
+Tablet Kalemi  (7)
+Antivirüs Programı  (7)
+Grafik Tabletler  (7)
+Mekanik Klavye  (7)
+Kablolar  (6)
+Tablet Standı  (5)
+E-Kitap Okuyucu  (4)
+Apple iMac  (4)
+Fotoğraf Makinesi ve Kamera  (3)
+Fotoğraf Makinesi Aksesuarları  (3)
+Laptop Standı  (2)
+Temizleme Ürünleri  (2)
+VDSL Modem  (2)
+Dijital İndirilebilir Lisans  (2)
+Bilgisayar Hoparlörü  (2)
+Konsol, Oyun ve Oyuncu Ekipmanları  (2)
+Gaming Ürünleri  (2)
+Fotoğraf Makinesi ve Kamera  (2)
+İşlemci  (1)
+Network Kartları  (1)
+İşletim Sistemi  (1)
+Dokunmatik Ekran  (1)
+Disk Kılıfı ve Aksesuar  (1)
+Oyuncu Monitörü  (1)
+Kurulum, Destek ve Servis Paketleri  (1)
+Kurulum Hizmetleri  (1)
+Marka
+Marka ara
+Teleplus  (677)
+HP  (342)
+Gpack  (325)
+MSI  (239)
+Pluscopy  (221)
+Apple  (141)
+Asus  (129)
+Logitech  (121)
+Casper  (113)
+BK  (112)
+Hama  (104)
+Preo  (97)
+TP-Link  (88)
+Inca  (87)
+Sandisk  (81)
+Dell  (75)
+Canon  (74)
+Lenovo  (54)
+Acer  (51)
+Microsoft  (43)
+Daytona  (38)
+WD  (38)
+Monster  (32)
+Samsung  (30)
+LG  (27)
+Samsonite  (25)
+Philips  (24)
+Case Logic  (23)
+TwinMOS  (22)
+Huawei  (22)
+Baseus  (20)
+Kingston  (18)
+NPO  (18)
+Vivanco  (17)
+Epson  (15)
+Mack  (15)
+Thule  (14)
+Sonorous  (13)
+Inktec  (13)
+Zyxel  (12)
+Kioxia  (12)
+Photoink  (12)
+Gigabyte  (11)
+Steelseries  (10)
+Hi-Level  (10)
+Makelsan  (10)
+Pusat   (9)
+Seagate  (9)
+Belkin  (9)
+Viewsonic  (9)
+Hyperx  (9)
+Hikvision  (9)
+Plusaparat  (8)
+Tenda  (7)
+Veikk  (7)
+Lunatic  (7)
+Mercusys  (7)
+Everest  (6)
+Hometech  (6)
+Honor  (6)
+Rampage  (6)
+Xiaomi  (6)
+G.Skill  (6)
+Glorious  (6)
+Xerox  (5)
+Alcatel  (5)
+Frisby  (5)
+Targus  (5)
+Snopy  (4)
+Snopy Rampage  (4)
+Timetec  (4)
+Jarvisen  (4)
+Goldmaster  (4)
+Panda  (4)
+Elephone  (4)
+Colorful  (4)
+Gamepower  (4)
+Sharkoon  (3)
+Bood  (3)
+Zotac  (3)
+Tucano  (3)
+Neo Forza  (3)
+AOC  (3)
+Skross  (3)
+Swiss  (3)
+Transcend  (3)
+Brother  (3)
+İşdeyeter  (2)
+Adata  (2)
+Dexim  (2)
+Logitech G  (2)
+Mcafee  (2)
+Piranha  (2)
+Afox  (2)
+Gainward  (2)
+Cellular Line  (2)
+Momax  (2)
+Netac  (2)
+Classone  (2)
+Riversong  (1)
+Soultech  (1)
+TCL  (1)
+General Home  (1)
+Diğer  (1)
+Adlock  (1)
+Fujitsu  (1)
+Anker  (1)
+Intel  (1)
+Kodak  (1)
+Intenso  (1)
+Regal  (1)
+Spigen  (1)
+Trust  (1)
+Tunçmatik  (1)
+Blue  (1)
+Fsp  (1)
+Longline  (1)
+Fiyat Aralığı
+0
+TL
+5.500
+TL
+
+1.000 TL altı  (2.599)
+1.000 - 2.500 TL arası  (323)
+2.500 - 4.000 TL arası  (134)
+4.000 - 5.500 TL arası  (99)
+5.500 TL üzeri  (798)
+Ekran Boyutu
+15.6"   (258)
+  (99)
+14"   (50)
+23.8"   (50)
+17.3"   (43)
+27"   (41)
+Monitör Yok   (29)
+15.6 ''  (24)
+16"   (23)
+13.3 ''  (16)
+21.5"   (13)
+31.5"   (13)
+10.9 ''  (12)
+14 ''  (11)
+8.3 ''  (10)
+12.4 ''  (9)
+10.1 ''  (8)
+10.2 ''  (8)
+17"   (8)
+34"   (8)
+13.3"   (7)
+23.6"   (6)
+6"   (6)
+32"   (5)
+7"   (5)
+11 ''  (4)
+12.9 ''  (4)
+14.2 ''  (4)
+16.2 ''  (4)
+24 ''  (4)
+10"   (3)
+10.1"   (3)
+10.4 ''  (3)
+10.5 ''  (3)
+2.2 ''  (3)
+29''   (3)
+3.2 ''  (3)
+8 ''  (3)
+11"   (2)
+14.1"   (2)
+14.5"   (2)
+2.65 ''  (2)
+24"   (2)
+24.5"   (2)
+7 ''  (2)
+8.7 ''  (2)
+1.2 ''  (1)
+10 ''  (1)
+10.3 ''  (1)
+10.4"   (1)
+10.5"   (1)
+10.8 ''  (1)
+10.8"   (1)
+10.9"   (1)
+13.4"   (1)
+13.9 ''  (1)
+14.1 ''  (1)
+19"   (1)
+2.7 ''  (1)
+23"   (1)
+28''   (1)
+29.5"   (1)
+İşlemci Üreticisi
+  (71)
+NVIDIA   (25)
+AMD   (6)
+Intel   (1)
+Hd Türü
+Full HD kalitesi   (22)
+Quad HD   (5)
+4K Ultra HD   (4)
+UltraWide Quad HD   (1)
+WXGA   (1)
+İşletim Sistemi Yazılımı
+Windows   (274)
+FreeDOS   (259)
+  (46)
+Windows 10 Home   (28)
+Android   (19)
+iPadOS 15   (18)
+macOS Big Sur   (13)
+iOS 14   (12)
+macOS Monterey   (8)
+Ubuntu   (7)
+Windows 11 Home   (7)
+iPadOS 14   (7)
+Android 10   (6)
+Android 9.0   (5)
+EMUI   (2)
+Windows 10   (2)
+Android 11   (1)
+Android 8.1   (1)
+Android 8.1 Oreo   (1)
+EMUI 10.1   (1)
+Linux   (1)
+Windows 10 Pro   (1)
+Windows 11 Pro   (1)
+macOS Catalina   (1)
+Ekran Çözünürlüğü
+1920 x 1080   (444)
+  (65)
+2560 x 1440   (40)
+1920 x 1080 Piksel  (34)
+Monitör Yok   (34)
+1366 x 768   (21)
+2560 x 1600   (18)
+2560 x 1600 Piksel  (18)
+2360 x 1640 Piksel  (12)
+2360 x 1640   (11)
+2266 x 1488 Piksel  (10)
+1366 x 768 Piksel  (8)
+2160 x 1620 Piksel  (8)
+1280 x 800 Piksel  (7)
+3840 x 2160   (7)
+1920 x 1200   (6)
+2560 x 1080   (6)
+3440 x 1440   (5)
+1280 x 800   (4)
+2732 x 2048 Piksel  (4)
+3024 x 1964 Piksel  (4)
+3456 x 2234 Piksel  (4)
+4480 x 2520 Piksel  (4)
+800 x 480 Piksel  (4)
+1024 x 600   (3)
+1920 x 1200 Piksel  (3)
+2388 x 1668 Piksel  (3)
+2800 x 1752 Piksel  (3)
+1240 x 600   (2)
+1340 x 800 Piksel  (2)
+2000 x 1200   (2)
+2160 x 1440   (2)
+2800 x 1752   (2)
+3840 x 2400   (2)
+1024 x 600 Piksel  (1)
+1024 x 768 Piksel  (1)
+1200 x 1920 Piksel  (1)
+1280 x 1024   (1)
+1600 x 2560   (1)
+2000 x 1200 Piksel  (1)
+2048 x 1536   (1)
+2880 x 1800   (1)
+2880 x 1800 Piksel  (1)
+2880 x 1920   (1)
+800 x 1280   (1)
+800 x 1280 Piksel  (1)
+Grafik İşlemci
+Yok   (76)
+NVIDIA GeForce RTX 3060 Ti   (15)
+AMD Radeon RX 6700 XT   (10)
+NVIDIA GeForce RTX2060   (7)
+NVIDIA GeForce GTX1650   (6)
+NVIDIA GeForce GTX1660   (5)
+NVIDIA Geforce GTX1660 Ti   (5)
+NVIDIA GeForce RTX 3070   (4)
+NVIDIA GeForce RTX 3090   (4)
+AMD Radeon RX 6900 XT   (3)
+NVIDIA GeForce MX330   (3)
+NVIDIA GeForce RTX 3070 Ti   (3)
+NVIDIA GeForce RTX 3080 Ti   (3)
+AMD 8GB RX 6600   (2)
+NVIDIA GeForce GT1030   (2)
+NVIDIA GeForce RTX 3060   (2)
+NVIDIA GeForce RTX 3080   (2)
+AMD 8GB RX 6600XT   (1)
+AMD HD5670   (1)
+AMD Radeon 6700 XT   (1)
+AMD Radeon RX 570   (1)
+AMD Radeon RX 580   (1)
+GeForce RTX 3050   (1)
+NVIDIA GT 1030   (1)
+NVIDIA GeForce GT730   (1)
+NVIDIA GeForce GTX 1660 Super   (1)
+NVIDIA GeForce RTX 3070 SUPRIM   (1)
+NVIDIA Rtx 2060   (1)
+Ekran Şekli
+Düz   (69)
+  (30)
+Kavisli   (25)
+SSD Kapasitesi
+  (99)
+512 GB  (29)
+256 GB  (18)
+512   (11)
+240 GB  (8)
+1000 GB  (5)
+1024   (5)
+256   (5)
+500 GB  (5)
+120 GB  (4)
+128 GB  (3)
+500   (3)
+1024 GB  (2)
+1256 GB  (2)
+480 GB  (2)
+1500 GB  (1)
+2048   (1)
+2048 GB  (1)
+Anten Sayısı
+2   (41)
+4   (15)
+Yok   (14)
+3   (10)
+8   (3)
+1   (2)
+6   (2)
+5   (1)
+Ram Kapasitesiı
+8 GB  (20)
+16 GB  (8)
+32 GB  (6)
+4 GB  (2)
+64 GB  (2)
+Dahili Hafıza
+64 GB  (36)
+256 GB  (23)
+32 GB  (18)
+128 GB  (12)
+GB  (6)
+16 GB  (5)
+2048 GB  (2)
+1024 GB  (1)
+4 GB  (1)
+İşlemci
+Intel Core i7   (211)
+Intel Core i5   (179)
+  (67)
+AMD Ryzen 7   (35)
+Intel Core i3   (32)
+AMD Ryzen 5   (28)
+M1   (20)
+Intel Celeron   (14)
+A14   (12)
+i5-1135G7   (12)
+Intel Core i9   (11)
+A15   (10)
+A13   (8)
+M1 Pro   (8)
+i5-10210U   (6)
+AMD Ryzen 3   (5)
+Intel Xeon   (5)
+Helio P22T   (4)
+i7-1165G7   (4)
+865+   (3)
+AMD Ryzen 9   (3)
+N4020   (3)
+i3-1005G1   (3)
+710A   (2)
+AMD A6   (2)
+MT8168   (2)
+i3-1115G4   (2)
+i5-11400H   (2)
+i7-11800H   (2)
+5500U   (1)
+5600H   (1)
+662   (1)
+990   (1)
+AMD A9   (1)
+AMD Athlon   (1)
+Helio A22   (1)
+Intel Pentium   (1)
+Intel Pentium Gold   (1)
+Intel Tabanlı   (1)
+MT8163   (1)
+MT8166   (1)
+MT8167D   (1)
+MT8321   (1)
+MT8765B   (1)
+N4000   (1)
+Qualcomm Atheros   (1)
+i3-10110U   (1)
+i3-5005U   (1)
+i5-1035G1   (1)
+i5-11300H   (1)
+i7-1065G7   (1)
+Ekran Kartı Modeli
+Onboard   (79)
+Intel Iris Xe Graphics   (69)
+NVIDIA GeForce RTX 3050   (38)
+NVIDIA GeForce RTX 3050 Ti   (36)
+NVIDIA GeForce RTX 3060   (36)
+Intel HD Graphics   (30)
+Intel UHD Graphics   (28)
+  (27)
+NVIDIA GeForce GTX1650   (25)
+Apple GPU   (21)
+AMD Radeon Graphics   (17)
+Intel® UHD Graphics   (17)
+NVIDIA GeForce MX330   (17)
+NVIDIA GeForce RTX 3070   (17)
+NVIDIA GeForce RTX 3080   (16)
+NVIDIA GeForce RTX 3060 Ti   (11)
+NVIDIA GeForce MX350   (10)
+NVIDIA RTX A2000   (10)
+AMD Radeon RX 6700 XT   (9)
+NVIDIA GeForce MX450   (8)
+NVIDIA RTX A3000   (7)
+NVIDIA GeForce RTX 2060   (6)
+NVIDIA GeForce RTX 3070 Ti   (6)
+NVIDIA GeForce RTX 3080 Ti   (6)
+NVIDIA Quadro T500   (6)
+NVIDIA GeForce GTX1660   (5)
+NVIDIA Quadro P520   (5)
+NVIDIA Quadro T1200   (5)
+Intel® Iris™ Grafikleri   (4)
+NVIDIA Geforce GTX1660 Ti   (4)
+AMD 8GB RX 6600   (3)
+AMD Radeon RX 6900 XT   (3)
+Intel HD Graphics 620   (3)
+Intel UHD Graphics 600   (3)
+Intel UHD Graphics 630   (3)
+NVIDIA GeForce MX130   (3)
+NVIDIA Quadro T2000   (3)
+AMD Radeon R5   (2)
+AMD Radeon RX 5600M   (2)
+Intel Iris Plus Graphics   (2)
+Intel® UHD Graphics 600   (2)
+M2   (2)
+NVIDIA GeForce GTX1650 Ti   (2)
+NVIDIA GeForce RTX 2070   (2)
+AMD Radeon RX 6800M   (1)
+AMD Radeon RX Vega 10   (1)
+AMD Radeon RX5500M   (1)
+AMD Radeon Vega 8   (1)
+Intel Graphics Media Accelerator X3100   (1)
+Intel Iris Xe Graphics G7   (1)
+Intel Irıs Graphics   (1)
+Intel UHD Graphics 620   (1)
+Intel® HD Graphics 5500   (1)
+Intel® Iris Plus Graphics   (1)
+NVIDIA GeForce RTX 3070 Max-Q   (1)
+NVIDIA Quadro T1000   (1)
+NVIDIA Quadro T600   (1)
+NVIDIA RTX A4000   (1)
+NVIDIA RTX A5000   (1)
+Ram
+8 GB  (244)
+16 GB  (239)
+4 GB  (69)
+32 GB  (65)
+GB  (47)
+2 GB  (14)
+12 GB  (10)
+64 GB  (10)
+24 GB  (9)
+3 GB  (6)
+6 GB  (5)
+1 GB  (1)
+1,5 GB  (1)
+128 GB  (1)
+20 GB  (1)
+Ekran Çözünürlüğü
+Piksel  (1)
+Hd Türü
+  (1)
+Garanti Süresi
+2 Yıl  (1.764)
+1 Yıl  (853)
+3 Yıl  (13)
+10 Yıl  (8)
+4 Yıl  (3)
+7 Yıl  (1)
+8 Yıl  (1)
+Yenileme Frekansı
+75 Hz  (26)
+165 Hz  (23)
+60 Hz  (20)
+144 Hz  (14)
+240 Hz  (3)
+180 Hz  (2)
+102 Hz  (1)
+170 Hz  (1)
+200 Hz  (1)
+360 Hz  (1)
+Kapasite
+64 GB  (21)
+128 GB  (19)
+256 GB  (17)
+32 GB  (12)
+16 GB  (8)
+512 GB  (7)
+1000 GB  (1)
+İşlemci Nesli
+Intel Core 11.Nesil   (248)
+Intel Core 10.Nesil   (46)
+AMD Ryzen 5.Nesil   (45)
+Intel Core 12.Nesil   (29)
+Yok   (11)
+AMD Ryzen 3.Nesil   (8)
+AMD Ryzen 4.Nesil   (7)
+Intel Core 7.Nesil   (3)
+AMD A 7.Nesil   (2)
+Celeron 3.Nesil   (2)
+Intel Celeron 10. Nesil   (2)
+Intel Celeron 4.Nesil   (2)
+Intel Celeron 7.Nesil   (2)
+Intel Core 5.Nesil   (2)
+Intel Core 9.Nesil   (2)
+AMD Ryzen 6.Nesil   (1)
+AMD Ryzen Pro 5.Nesil   (1)
+Intel Core 3.Nesil   (1)
+Intel Core 8.Nesil   (1)
+Çözünürlük Ekran
+1920 x 1080 Piksel  (22)
+2560 x 1440 Piksel  (7)
+3840 x 2160 Piksel  (3)
+1366 x 768 Piksel  (1)
+3440 x 1440 Piksel  (1)
+Ekran Boyutu Uyumluluğu
+11 ''  (136)
+10.4 ''  (133)
+8 ''  (95)
+10.5 ''  (90)
+10.2 ''  (75)
+12.9 ''  (54)
+10 ''  (49)
+10.1 ''  (46)
+10.3 ''  (32)
+10.9 ''  (32)
+15.6 ''  (30)
+9.6 ''  (27)
+9.7 ''  (26)
+12.4 ''  (10)
+7.9 ''  (10)
+14 ''  (9)
+17.3 ''  (6)
+27 ''  (6)
+10.8 ''  (5)
+7 ''  (5)
+12.2 ''  (4)
+16 ''  (4)
+24.5 ''  (4)
+8.7 ''  (3)
+12.3 ''  (2)
+14.2 ''  (2)
+19.5 ''  (2)
+15 ''  (1)
+21.5 ''  (1)
+23.5 ''  (1)
+24 ''  (1)
+Bellek Yuvalarının Sayısı
+4   (48)
+2   (21)
+3   (1)
+8   (1)
+Satıcı
+Teknosa  (1.351)
+Teleplus  (677)
+BitmeyenKartuş  (440)
+GpnTeknoloji  (440)
+GPACK  (325)
+TECHBURADA  (249)
+Ebrar Bilgisayar  (224)
+Teknorya  (189)
+Teknoraks  (138)
+Nethouse  (112)
+Ofmark  (99)
+Bt Teknoloji  (80)
+Bozdan Teknoloji  (71)
+EXCALIBUR  (70)
+HP Store Türkiye  (49)
+Monster Notebook  (41)
+Arcadia Bilişim  (26)
+Lunatic Gamer Shop  (23)
+BittiBitiyor  (18)
+CASPER  (14)
+PivotExpert  (14)
+mobilepoint  (14)
+Güreller  (10)
+HızlıalTeknoloji  (9)
+PLUSAPARAT  (8)
+Birtek Teknoloji  (8)
+Mobiloom  (8)
+Reyontek  (7)
+Gamers Arena  (7)
+Kuantum Sanal  (7)
+doludepo  (6)
+DSM Teknoloji  (6)
+Elektromanya  (5)
+banffonline  (5)
+Gençpa  (4)
+KİDEGA  (3)
+FLY Technology  (3)
+BULVAR ONLINE  (3)
+Günseli  (3)
+Gelecek Bizde  (3)
+depodandirekt  (2)
+Revo Teknoloji  (2)
+En İyi Mağaza  (2)
+Comfor  (1)
+Kinzy Teknoloji  (1)
+HOMEFORTECH  (1)
+ELEKTROHAN  (1)
+Iot eStore  (1)
+İşlemci Soketi
+LGA1200   (33)
+AM4   (32)
+LGA1151   (5)
+LGA1700   (1)
+LGA2066   (1)
+TV Ekran Boyutu
+
+Çözünürlük
+1920 x 1080 Piksel  (3)
+1080 x 1620 Piksel  (1)
+1080 x 1920 Piksel  (1)
+120 x 160 Piksel  (1)
+HD Türü
+  (63)
+FHD   (36)
+QHD   (11)
+WQHD   (4)
+4K UHD   (2)
+Ekran Boyutu
+''  (1)
+Klavye Düzeni
+QWERTY   (1)
+Uyumlu Model
+Galaxy TAB A 10.1" T510 T515   (1)
+Ekran Şekli
+  (1)
+Klavye Düzeni
+Q   (29)
+  (22)
+QWERTY   (2)
+Anakart Yongası
+AMD X570   (11)
+Intel B560   (10)
+AMD B550   (9)
+Intel Z590   (8)
+AMD B450   (6)
+Intel Z490   (5)
+Intel H510   (4)
+AMD A320   (3)
+AMD A520   (3)
+Intel B365   (3)
+Intel B460   (3)
+Intel H410   (2)
+Intel H310   (1)
+Intel X299   (1)
+Intel Z390   (1)
+Intel Z690   (1)
+Dahili Sabit Disk Sürücüsü
+Yok   (464)
+1 TB   (46)
+2 TB   (8)
+512 GB   (7)
+1000 GB  (6)
+256 GB   (5)
+2000 GB  (4)
+5000 GB  (3)
+  (2)
+6000 GB  (2)
+1 GB   (1)
+10000 GB  (1)
+12 TB   (1)
+12000 GB  (1)
+14000 GB  (1)
+1500 GB  (1)
+16000 GB  (1)
+18000 GB  (1)
+2 GB   (1)
+3 TB   (1)
+3000 GB  (1)
+36 TB   (1)
+4 TB   (1)
+4000 GB  (1)
+6 TB   (1)
+750 GB  (1)
+8000 GB  (1)
+Görüntüleme Teknolojisi
+LED   (24)
+LCD   (4)
+IPS   (2)
+Garanti Tipi
+İthalatçı Garantili   (1.478)
+Resmi Distribütör Garantili   (1.165)
+İşlemci Çekirdek Sayısı
+4   (243)
+8   (222)
+6   (129)
+2   (61)
+  (38)
+14   (22)
+12   (8)
+10   (6)
+16   (1)
+2+6   (1)
+3   (1)
+36   (1)
+Tepki Süresi
+1 ms  (27)
+5 ms  (14)
+4 ms  (7)
+2 ms  (2)
+8 ms  (1)
+Hafıza Frekans Hızı
+3200 MHz  (11)
+MHz  (10)
+1600 MHz  (6)
+2666 MHz  (4)
+3600 MHz  (3)
+4000 MHz  (3)
+3000 MHz  (2)
+12000 MHz  (1)
+19000 MHz  (1)
+4400 MHz  (1)
+4600 MHz  (1)
+İşlemci Frekansı
+2.3 GHz  (66)
+1.8 GHz  (42)
+2.6 GHz  (40)
+2.5 GHz  (37)
+2 GHz  (33)
+GHz  (31)
+2.4 GHz  (28)
+2.8 GHz  (28)
+3.6 GHz  (20)
+3.2 GHz  (18)
+3.5 GHz  (18)
+2.7 GHz  (17)
+2.1 GHz  (16)
+3.3 GHz  (15)
+4.5 GHz  (15)
+4.6 GHz  (15)
+3 GHz  (13)
+4.2 GHz  (13)
+1.1 GHz  (12)
+2.9 GHz  (12)
+1.6 GHz  (11)
+2,3 GHz  (9)
+4.7 GHz  (9)
+1 GHz  (8)
+3.1 GHz  (8)
+3.8 GHz  (8)
+1,6 GHz  (6)
+1,8 GHz  (6)
+1.2 GHz  (6)
+2,2 GHz  (6)
+4.4 GHz  (6)
+2,4 GHz  (5)
+3.9 GHz  (5)
+4 GHz  (5)
+4.1 GHz  (4)
+1,1 GHz  (3)
+1,2 GHz  (3)
+1.9 GHz  (3)
+2,7 GHz  (3)
+2.36 GHz  (3)
+2.66 GHz  (3)
+3.7 GHz  (3)
+1,3 GHz  (2)
+1.3 GHz  (2)
+2.13 GHz  (2)
+2.2 GHz  (2)
+2.86 GHz  (2)
+3.4 GHz  (2)
+1,28 GHz  (1)
+1,5 GHz  (1)
+1.4 GHz  (1)
+1.99 GHz  (1)
+1200 GHz  (1)
+2,1 GHz  (1)
+2,16 GHz  (1)
+2,5 GHz  (1)
+2,8 GHz  (1)
+2.41 GHz  (1)
+2.93 GHz  (1)
+3,1 GHz  (1)
+3,3 GHz  (1)
+4.8 GHz  (1)
+5 GHz  (1)
+Stok Durumu
+Stoklu Ürünler  (3.933)
+Özel Teklifler
+Web'e Özel  (7)
+Yeni Ürünler  (677)
+Çok Satanlar
+
+HP Laptop 15-dw3044nt 4H226EA INTEL i5 1135G7 8GB Ram 512GB SSD Iris Xe 15.6" W11 Notebook
+HP Laptop 15-dw3044nt 4H226EA INTEL i5 1135G7 8GB Ram 512GB SSD Iris Xe 15.6" W11 Notebook
+8.499 TL
+
+Acer Swift3 SF314-511 Intel i5-1135G7 8GB Ram 512GB SSD Iris Xe 14" FHD W10H Notebook
+Acer Swift3 SF314-511 Intel i5-1135G7 8GB Ram 512GB SSD Iris Xe 14" FHD W10H Notebook
+9.999 TL
+Çok Satanlar
+
+Samsung Galaxy S6 Lite 64 GB 10.4" Tablet Mavi
+Samsung Galaxy S6 Lite 64 GB 10.4" Tablet Mavi
+5.399 TL
+Çok Satanlar
+
+Samsung Galaxy S6 Lite 64 GB 10.4" Tablet Pembe
+Samsung Galaxy S6 Lite 64 GB 10.4" Tablet Pembe
+5.399 TL
+
+Samsung Galaxy S6 Lite 64 GB 10.4" Gray Tablet
+Samsung Galaxy S6 Lite 64 GB 10.4" Gray Tablet
+5.399 TL
+Çok Satanlar
+
+Apple iPad 9.Nesil 10.2" 64GB Wifi Uzay Grisi Tablet MK2K3TU/A
+Apple iPad 9.Nesil 10.2" 64GB Wifi Uzay Grisi Tablet MK2K3TU/A
+5.914 TL
+Çok Satanlar
+
+Seagate Expansion 1TB 2.5" Usb 3.0 STEA1000400 Taşınabilir Harddisk Siyah
+Seagate Expansion 1TB 2.5" Usb 3.0 STEA1000400 Taşınabilir Harddisk Siyah
+649 TL
+Çok Satanlar
+
+WD Elements WDBUZG0010BBK 1TB 2.5" Usb 3.0 Siyah
+WD Elements WDBUZG0010BBK 1TB 2.5" Usb 3.0 Siyah
+749 TL
+Çok Satanlar
+
+Samsung Galaxy Tab A7 Lite 32GB Tablet Koyu Gri
+Samsung Galaxy Tab A7 Lite 32GB Tablet Koyu Gri
+1.699 TL
+Çok Satanlar
+
+Apple Macbook Air MGN63TU/A M1 8C 8GB 256 GB SDD 13" Uzay Grisi Dizüstü Bilgisayar
+Apple Macbook Air MGN63TU/A M1 8C 8GB 256 GB SDD 13" Uzay Grisi Dizüstü Bilgisayar
+14.799 TL
+Çok Satanlar
+
+Samsung Galaxy Tab A7 Lite 32GB Tablet Gümüş
+Samsung Galaxy Tab A7 Lite 32GB Tablet Gümüş
+1.699 TL
+Çok Satanlar
+
+Huawei Matebook D15  Intel® i5-10210U 8 GB Ram 256 GB Intel® UHD Graphics 620 15.6" 10 Home Edition Space Gray Notebook
+Huawei Matebook D15  Intel® i5-10210U 8 GB Ram 256 GB Intel® UHD Graphics 620 15.6" 10 Home Edition Space Gray Notebook
+8.699 TL
+Çok Satanlar
+
+Logitech Mk235 920-007925 Kablosuz Q Klavye Mouse Set 
+Logitech Mk235 920-007925 Kablosuz Q Klavye Mouse Set
+329 TL
+Çok Satanlar
+
+TP-Link TL-WA854RE 300MBPS Wi-Fi Range Extender
+TP-Link TL-WA854RE 300MBPS Wi-Fi Range Extender
+198 TL
+
+Lenovo Ideapad 3 81WQ002TTX Intel Celeron N4020 4GB Ram 128GB SSD Intel UHD Graphics 600 15.6" W10 Notebook Gri
+Lenovo Ideapad 3 81WQ002TTX Intel Celeron N4020 4GB Ram 128GB SSD Intel UHD Graphics 600 15.6" W10 Notebook Gri
+4.299 TL
+Çok Satanlar
+
+TP-Link Archer VR300 AC 1200 Mbps Wireless Fiber/VDSL/ADSL Modem Router
+TP-Link Archer VR300 AC 1200 Mbps Wireless Fiber/VDSL/ADSL Modem Router
+777 TL
+Çok Satanlar
+
+TP-Link Td-W9960 300Mbps Wireless N Vdsl/Adsl Modem Router
+TP-Link Td-W9960 300Mbps Wireless N Vdsl/Adsl Modem Router
+519 TL
+Çok Satanlar
+
+Canon Pixma E-414 Fotokopi + Tarayıcı Çok Fonksiyonlu Yazıcı
+Canon Pixma E-414 Fotokopi + Tarayıcı Çok Fonksiyonlu Yazıcı
+720 TL
+Çok Satanlar
+
+Logitech Mk240 Kablosuz Klavye Mouse Set Sarı Siyah
+Logitech Mk240 Kablosuz Klavye Mouse Set Sarı Siyah
+399 TL
+Çok Satanlar
+
+Asus X515FA-EJ053T Intel i5 10210U 8GB Ram 256GB SSD 15.6" W10 Notebook
+Tükenmek Üzere
+Asus X515FA-EJ053T Intel i5 10210U 8GB Ram 256GB SSD 15.6" W10 Notebook
+11.899 TL
+Çok Satanlar
+
+Logitech M330 Silent Kablosuz Mouse (Siyah)
+Logitech M330 Silent Kablosuz Mouse (Siyah)
+309 TL
+
+Apple Macbook Air MGN93TU/A M1 8C 8GB 256 GB SDD 13" Gümüş Dizüstü Bilgisayar
+Apple Macbook Air MGN93TU/A M1 8C 8GB 256 GB SDD 13" Gümüş Dizüstü Bilgisayar
+14.799 TL
+
+Lenovo IdeaPad L3 i5-10210U 8 GB 256 GB SSD + 1TB HDD NVIDIA GeForce MX130 2GB 15.6" HD Notebook
+Lenovo IdeaPad L3 i5-10210U 8 GB 256 GB SSD + 1TB HDD NVIDIA GeForce MX130 2GB 15.6" HD Notebook
+10.999 TL
+Çok Satanlar
+
+Logitech K400 Plus Dokunmatik Kablosuz Siyah Smart Tv Klavye  920-007149
+Logitech K400 Plus Dokunmatik Kablosuz Siyah Smart Tv Klavye 920-007149
+539 TL
+Çok Satanlar
+
+Microsoft 365 Bireysel (Elektronik Lisans)
+Microsoft 365 Bireysel (Elektronik Lisans)
+799 TL
+
+Casper VIA.S48 Tablet
+Casper VIA.S48 Tablet
+1.099 TL
+
+Apple iPad Air 4.Nesil 10.9" 64GB Wifi Gümüş Tablet MYFN2TU/A
+Apple iPad Air 4.Nesil 10.9" 64GB Wifi Gümüş Tablet MYFN2TU/A
+8.699 TL
+
+Lenovo Tab M10 FHD Plus MTK Helio P22T 2.3Ghz 4GB 128GB 10.3" FHD And.Pie ZA5T0312TR Tablet Platin Tablet Gri
+Lenovo Tab M10 FHD Plus MTK Helio P22T 2.3Ghz 4GB 128GB 10.3" FHD And.Pie ZA5T0312TR Tablet Platin Tablet Gri
+3.499 TL
+Çok Satanlar
+
+Logitech M220 Kablosuz Silent Mouse Siyah
+Logitech M220 Kablosuz Silent Mouse Siyah
+199,90 TL
+
+Lenovo IdeaPad 5 Intel Core i3-1115G4 4 GB 256 GB SSD Integrated Intel UHD Graphics 14" FHD W11 Platinum Notebook Gri 82FE00LBTX
+Lenovo IdeaPad 5 Intel Core i3-1115G4 4 GB 256 GB SSD Integrated Intel UHD Graphics 14" FHD W11 Platinum Notebook Gri 82FE00LBTX
+5.499 TL
+
+WD My Passport 5TB Worldwide WDBPKJ0050BBK-WESN Taşınabilir Harddisk
+WD My Passport 5TB Worldwide WDBPKJ0050BBK-WESN Taşınabilir Harddisk
+1.919 TL
+
+Apple iPad 9.Nesil 10.2" 256GB Wifi Uzay Grisi Tablet MK2N3TU/A
+Apple iPad 9.Nesil 10.2" 256GB Wifi Uzay Grisi Tablet MK2N3TU/A
+7.999 TL
+
+Apple Macbook Air MGND3TU/A M1 8C 8GB 256 GB SDD 13" Gold Dizüstü Bilgisayar
+Apple Macbook Air MGND3TU/A M1 8C 8GB 256 GB SDD 13" Gold Dizüstü Bilgisayar
+14.799 TL
+Çok Satanlar
+
+WD Elements 3 TB 2,5" Intellipower USB 3.0 Siyah HDD WDBU6Y0030BBK
+WD Elements 3 TB 2,5" Intellipower USB 3.0 Siyah HDD WDBU6Y0030BBK
+949 TL
+Çok Satanlar
+
+TP-Link TD-W8961N 300Mbps ADSL2 + Modem/Router, 2x5DBi Anten WPS
+TP-Link TD-W8961N 300Mbps ADSL2 + Modem/Router, 2x5DBi Anten WPS
+299 TL
+
+Samsung Galaxy Tab Gümüş Tablet A8 SM-X200
+Samsung Galaxy Tab Gümüş Tablet A8 SM-X200
+2.499 TL
+Çok Satanlar
+
+HP 652 F6V25Ae Mürekkep Kartuş Siyah
+HP 652 F6V25Ae Mürekkep Kartuş Siyah
+249 TL
+
+Logitech M185 Kablosuz Mouse Gri
+Logitech M185 Kablosuz Mouse Gri
+149 TL
+Çok Satanlar
+
+Logitech M171 Kablosuz Mouse (Siyah)
+Logitech M171 Kablosuz Mouse (Siyah)
+144,90 TL
+
+Apple MacBook Pro 13" M1 8C CPU 256GB SSD Space Grey MYD82TU/A
+Apple MacBook Pro 13" M1 8C CPU 256GB SSD Space Grey MYD82TU/A
+19.499 TL
+Çok Satanlar
+
+TP-Link Td-W9970 300 Mbps N Kablosuz 4 Port 2X5Dbi 1Xusb Wps Ewan Fiber Destekli Vdsl2/Adsl2+ Modem Router
+TP-Link Td-W9970 300 Mbps N Kablosuz 4 Port 2X5Dbi 1Xusb Wps Ewan Fiber Destekli Vdsl2/Adsl2+ Modem Router
+679 TL
+Çok Satanlar
+
+TP-Link RE200 750Mbps Kablosuz AC Dual Band Menzil Genişletici
+TP-Link RE200 750Mbps Kablosuz AC Dual Band Menzil Genişletici
+399 TL
+
+HP 15-dw3045nt 4J0U6EA Intel i5 1135G7 8GB Ram 256GB SSD Iris Xe 15.6" W10H Notebook
+HP 15-dw3045nt 4J0U6EA Intel i5 1135G7 8GB Ram 256GB SSD Iris Xe 15.6" W10H Notebook
+7.999 TL
+
+Apple iPad Air 4.Nesil 10.9" 64GB Wifi Roze Altın Tablet MYFP2TU/A
+Apple iPad Air 4.Nesil 10.9" 64GB Wifi Roze Altın Tablet MYFP2TU/A
+8.699 TL
+Çok Satanlar
+
+Apple MLA02TU/A Magic Mouse 2 Gümüş
+Apple MLA02TU/A Magic Mouse 2 Gümüş
+1.269 TL
+Çok Satanlar
+
+HP 3XV18B DeskJet 2720 Wi-Fi Mürekkep Püskürtmeli Çok Fonksiyonlu Yazıcı
+HP 3XV18B DeskJet 2720 Wi-Fi Mürekkep Püskürtmeli Çok Fonksiyonlu Yazıcı
+999 TL
+Çok Satanlar
+
+Seagate Expansion 2TB 2.5" Usb 3.0 STEA2000400 Taşınabilir Harddisk Siyah
+Seagate Expansion 2TB 2.5" Usb 3.0 STEA2000400 Taşınabilir Harddisk Siyah
+899 TL
+
+Samsung Galaxy TAB A8 SM-X200 Tablet Gri
+Samsung Galaxy TAB A8 SM-X200 Tablet Gri
+2.499 TL
+Çok Satanlar
+
+Logitech M510 Wireless Mouse Siyah
+Logitech M510 Wireless Mouse Siyah
+449 TL
+Çok Satanlar
+
+TP-Link TL-WN823N 300 Mbps N Kablosuz WPS/Soft AP Mini USB Adaptör
+TP-Link TL-WN823N 300 Mbps N Kablosuz WPS/Soft AP Mini USB Adaptör
+199 TL
+
+Acer Aspire 3 A315-57G Intel I5-1035G1 İslemci 8GB RAM 256SSD  Geforce Nvidia MX330 15.6" FHD W10 Notebook
+Acer Aspire 3 A315-57G Intel I5-1035G1 İslemci 8GB RAM 256SSD Geforce Nvidia MX330 15.6" FHD W10 Notebook
+8.799 TL
+Çok Satanlar
+
+TP-Link TL-WA855RE 300Mbps 2 Harici Antenli Menzil Genişletici
+TP-Link TL-WA855RE 300Mbps 2 Harici Antenli Menzil Genişletici
+299 TL
+Çok Satanlar
+
+TP-Link TL-WR940N 450Mbps Kablosuz WPS Destekli Access Point / Menzil Genişletici / Router
+TP-Link TL-WR940N 450Mbps Kablosuz WPS Destekli Access Point / Menzil Genişletici / Router
+359 TL
+Çok Satanlar
+
+HyperX Quadcast S RGB Microphone 4P5P7AA
+HyperX Quadcast S RGB Microphone 4P5P7AA
+1.699 TL
+
+Apple MacBook Pro 13" M1 8C CPU 512GB SSD Space Grey MYD92TU/A
+Apple MacBook Pro 13" M1 8C CPU 512GB SSD Space Grey MYD92TU/A
+21.999 TL
+Çok Satanlar
+
+Logitech MX Keys Türkçe Kablosuz Q Klavye
+Logitech MX Keys Türkçe Kablosuz Q Klavye
+1.949 TL
+
+Samsung Galaxy Tab Pembe Altın Tablet A8 SM-X200
+Samsung Galaxy Tab Pembe Altın Tablet A8 SM-X200
+2.499 TL
+
+Apple iPad Air 5. Nesil 10.9" 256GB Wifi Uzay Grisi Tablet MM9L3TU/A
+Apple iPad Air 5. Nesil 10.9" 256GB Wifi Uzay Grisi Tablet MM9L3TU/A
+13.299 TL
+
+Apple iPad Air 4.Nesil 10.9" 256GB Wifi Uzay Grisi Tablet MYFT2TU/A
+Apple iPad Air 4.Nesil 10.9" 256GB Wifi Uzay Grisi Tablet MYFT2TU/A
+11.599 TL
+
+Apple iPad Air 4.Nesil 10.9" 256GB WiFi Roze Altın Tablet 256GB MYFX2TU/A
+Apple iPad Air 4.Nesil 10.9" 256GB WiFi Roze Altın Tablet 256GB MYFX2TU/A
+11.599 TL
+Çok Satanlar
+
+HP 652 Renkli Mürekkep Kartuş (F6V24Ae)
+HP 652 Renkli Mürekkep Kartuş (F6V24Ae)
+199 TL
+Çok Satanlar
+
+Logitech Mx Master 3 Wireless Mouse Graphite 910-005694
+Logitech Mx Master 3 Wireless Mouse Graphite 910-005694
+1.839 TL
+
+Apple iPad Air 5. Nesil 10.9" 64GB Wifi Cellular Uzay Grisi Tablet MM6R3TU/A
+Apple iPad Air 5. Nesil 10.9" 64GB Wifi Cellular Uzay Grisi Tablet MM6R3TU/A
+13.299 TL
+Çok Satanlar
+
+Kingston 32GB Usb3.2 Datatrav EX Dtx/32GB Usb Bellek
+Kingston 32GB Usb3.2 Datatrav EX Dtx/32GB Usb Bellek
+69 TL
+
+Logitech MK330 Kablosuz Combo Tr Klavye Mouse Set (920-003988)
+Logitech MK330 Kablosuz Combo Tr Klavye Mouse Set (920-003988)
+419 TL
+
+HP 304 N9k06ae Mürekkep Kartuşu Siyah
+HP 304 N9k06ae Mürekkep Kartuşu Siyah
+199 TL
+
+Apple iPad Pro 5.Nesil MHNJ3TU/A Wi-Fi 256GB 12.9" Gümüş Tablet
+Tükenmek Üzere
+Apple iPad Pro 5.Nesil MHNJ3TU/A Wi-Fi 256GB 12.9" Gümüş Tablet
+21.199 TL
+
+HP Laptop 15s-fq-2062nt 4H251EA Intel i5-1135G7 8GB Ram 256GB SSD Iris Xe 15.6" W10 Notebook
+HP Laptop 15s-fq-2062nt 4H251EA Intel i5-1135G7 8GB Ram 256GB SSD Iris Xe 15.6" W10 Notebook
+8.499 TL
+
+Huawei Matepad T10S 4GB Bellek 64GB HAfıza 10.1" Deniz Mavisi Tablet
+Huawei Matepad T10S 4GB Bellek 64GB HAfıza 10.1" Deniz Mavisi Tablet
+2.199 TL
+
+Samsung Galaxy Tab S7 FE 64GB Wifi Tablet Siyah
+Samsung Galaxy Tab S7 FE 64GB Wifi Tablet Siyah
+6.999 TL
+Çok Satanlar
+
+Epson 103 Siyah Mürekkep Kartuşu
+Epson 103 Siyah Mürekkep Kartuşu
+129 TL
+Çok Satanlar
+
+Logitech MK470 Kablosuz Klavye Mouse Seti Graphite
+Logitech MK470 Kablosuz Klavye Mouse Seti Graphite
+699 TL
+
+Casper Nirvana C350.5005-4C00E Intel Core i3-5005 4GB RAM 120GB SSD 14" Notebook Gri
+Casper Nirvana C350.5005-4C00E Intel Core i3-5005 4GB RAM 120GB SSD 14" Notebook Gri
+4.999 TL
+Çok Satanlar
+
+ HP Pavilion Gaming 15-ec2009nt 465G8EA AMD Ryzen 5 5600H 8GB ram 512GB SSD 15.6" RTX 3050 4GB W10 Gaming Notebook
+Tükenmek Üzere
+ HP Pavilion Gaming 15-ec2009nt 465G8EA AMD Ryzen 5 5600H 8GB ram 512GB SSD 15.6" RTX 3050 4GB W10 Gaming Notebook
+13.999 TL
+
+Apple iPad Air 5. Nesil 10.9" 64GB Wifi Uzay Grisi Tablet MM9C3TU/A
+Apple iPad Air 5. Nesil 10.9" 64GB Wifi Uzay Grisi Tablet MM9C3TU/A
+10.699 TL
+Çok Satanlar
+
+TP-Link UB400 Bluetooth 4.0 Mini USB Adaptör
+TP-Link UB400 Bluetooth 4.0 Mini USB Adaptör
+119 TL
+Çok Satanlar
+
+Goldmaster Cab-1221 Prt Usb 2.0 Printer 1.8 Metre Yazıcı Kablosu
+Goldmaster Cab-1221 Prt Usb 2.0 Printer 1.8 Metre Yazıcı Kablosu
+89 TL
+Çok Satanlar
+
+Logitech Pebble M350 Kablosuz Bluetooth Mouse Rose
+Logitech Pebble M350 Kablosuz Bluetooth Mouse Rose
+299,90 TL
+
+TP-Link Archer C50 AC 1200 Mbps Kablosuz Dual Band Access Point ve Router
+TP-Link Archer C50 AC 1200 Mbps Kablosuz Dual Band Access Point ve Router
+399 TL
+
+Apple iPad 9.Nesil 10.2" 256GB Wifi Gümüş Tablet MK2P3TU/A
+Apple iPad 9.Nesil 10.2" 256GB Wifi Gümüş Tablet MK2P3TU/A
+7.999 TL
+
+iPhone 13
+iPhone 12
+iPhone 11
+iPhone SE
+Apple Watch Seri 7
+Airpods 2
+Samsung Galaxy A72
+Xiaomi Redmi Note 10
+Apple iPad Air
+Casper Notebook
+Roborock S6 Max
+Huawei GT3 Akıllı Saat
+Xiaomi Poco X3 Pro
+Huawei Nova 9
+JBL GO3
+Kategoriler
+Cep Telefonu
+iPhone
+Android Telefon
+Samsung Cep Telefonu
+Televizyon
+LG Televizyon
+Laptop / Notebook
+Lenovo Laptop
+Oyun Bilgisayarı / Gaming Notebook
+Tablet
+Samsung Tablet
+Akıllı Saat
+Robot Süpürge
+Çamaşır Makinesi
+Kahve Makinesi
+Özel Sayfalar
+Preo
+Gaming Mouse
+Xiaomi Telefon
+Oppo
+Macbook
+Çeyiz Seti
+Filtre Kahve Makinesi
+Bluetooth Hoparlör
+Tost Makinesi
+Hamur Yoğurma Makinesi

@@ -1,0 +1,214 @@
+8,90
+Patates Kg
+0 Kg
+
+5,95
+Soðan Kuru Kg
+0 Kg
+
+44,90
+Sarýmsak Kuru Kg
+
+Domates Salkým Kg.
+0 Kg
+
+29,90
+Domates Kokteyl Kg.
+0 Kg
+
+34,90
+Biber Dolma Kg
+0 Kg
+
+39,90
+Biber Sivri Kg.
+0 Adet
+
+14,90
+Isl. Dogr. Balkabagi 1000gr.
+0 Kg
+
+29,90
+Biber Çarliston Kg.
+0 Kg
+
+39,90
+Biber Kýrmýzý Kg.
+0 Kg
+
+12,90
+Lahana Kýrmýzý Kg.
+0 Kg
+
+47,90
+Biber California Kg
+0 Kg
+
+39,90
+Biber Kýl Kg
+0 Adet
+
+14,90
+Mantar 300 Gr Pkt
+
+29,95
+Ananas Adet
+0 Kg
+
+16,95
+Muz Yerli Kg
+0 Kg
+
+29,95
+Muz Ithal Kg.
+0 Kg
+
+10,95
+Elma Starking Kg.
+0 Kg
+
+10,95
+Elma Fuji Kg
+0 Kg
+
+12,90
+Elma Amasya Kg
+0 Kg
+
+14,90
+Elma Granny Kg
+0 Kg
+
+14,95
+Armut Deveci Kg
+0 Kg
+
+19,95
+Armut Sanmaria Kg
+0 Adet
+
+6,95
+Avokado / Adet
+0 Kg
+
+16,95
+Muz Paket Yerli
+
+Limon Kg
+0 Kg
+
+7,95
+Portakal Sýkma File Kg
+0 Kg
+
+6,95
+Greyfurt Kg
+
+4,95
+Maydanoz Dmt.
+0 Adet
+
+12,95
+Salata Kývýrcýk(adet)
+0 Kg
+
+29,90
+Domates Salkým Kg.
+0 Kg
+
+29,90
+Domates Kokteyl Kg.
+0 Kg
+
+16,90
+Salatalýk Kg
+0 Adet
+
+16,90
+Marul Adet
+0 Kg
+
+9,95
+Limon Kg
+0 Kg
+
+9,90
+Havuç Kg
+0 Kg
+
+12,90
+Lahana Kýrmýzý Kg.
+
+4,95
+Maydanoz Dmt.
+0 Adet
+
+12,95
+Salata Kývýrcýk(adet)
+0 Adet
+
+16,90
+Marul Adet
+
+5,90
+Quru Kurutulmuþ Armut 18 Gr
+0 Adet
+
+5,90
+Quru Kurutulmuþ Tarçýnlý Elma 20 Gr
+0 Adet
+
+5,90
+Quru Kurutulmuþ Portakal 18 Gr
+0 Adet
+
+5,90
+Quru Kurutulmuþ Trabzon Hurmasý 19 Gr
+0 Adet
+
+5,90
+Quru Kurutulmuþ Elma 18 Gr
+0 Adet
+
+8,90
+Quru Kurutulmuþ Þeftali 20 Gr
+0 Adet
+
+11,90
+Quru Kurutulmuþ Çilek 19 Gr
+0 Adet
+
+12,90
+Quru Kurutulmuþ Ananas 18 Gr
+0 Adet
+
+9,30
+Amigo Dalýndan Meyve Mýx 250 Gr
+0 Adet
+
+8,90
+Quru Kurutulmuþ Kivi 19 Gr
+0 Adet
+
+8,90
+Quru Kurutulmuþ Viþne 18 Gr
+
+8,30
+Ýnci Garnitür 450 Gr
+0 Adet
+
+14,90
+Ýnci Bezelye 450 Gr
+0 Adet
+
+14,95
+Ýnci Elma Dilim Patates 1 Kg
+0 Adet
+
+18,90
+Ýnci Patates 1000gr
+0 Adet
+
+17,90
+Superfresh Mýsýr 450 Gr
+

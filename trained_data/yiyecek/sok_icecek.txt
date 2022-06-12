@@ -1,0 +1,685 @@
+
+2,95
+Saka Su 0,5 Lt
+  
+
+5,85
+Saka Su 1,5lt
+  
+
+10,35
+Saka Su 5 Lt
+  
+
+3,95
+Hayat Su Maskot 330 Ml
+  
+
+17,35
+Saka Su 10 Lt
+  
+
+1,25
+Elmacýk Su 0.5 Lt
+  
+
+2,50
+Elmacýk Su 1.5 Lt
+  
+
+6,00
+Elmacýk Su 5 Lt
+
+10,90
+Eskipazar Maden Suyu 6x200ml
+  
+
+13,90
+Söðütlüçeþme Maden Suyu Limon 6 x 200 Ml
+  
+
+13,90
+Söðütlüçeþme Maden Suyu Mandalina 6 x 200 Ml
+  
+
+10,90
+Kýzýlay Sade Maden Suyu 6*200 Ml
+  
+
+16,50
+Akmina Elma Aromalý Maden Suyu 6x200 Ml
+  
+
+2,15
+Eskipazar Maden Suyu 200 Ml
+  
+
+2,50
+Söðütlüçeþme Maden Suyu Limon 200 Ml
+  
+
+2,50
+Söðütlüçeþme Maden Suyu Mandalina 200 Ml
+  
+
+2,15
+Kýzýlay Soda 200 Ml
+
+
+8,50
+Pepsi Cola 1 Lt
+  
+
+9,00
+Coca Cola Light 1 Lt
+  
+
+10,50
+Coca Cola 1,5 Lt
+  
+
+2,50
+Crown Cola Pet 250 Ml
+  
+
+4,25
+Crown Cola 330 Ml Kutu
+  
+
+6,50
+Coca Cola Zero Sugar 330 Ml
+  
+
+6,50
+Coca Cola 330 Ml
+  
+
+10,50
+Coca Cola Zero Sugar 1,5 Lt
+  
+
+5,00
+Coca Cola 450 Ml
+
+8,90
+Crown Mandalina 1,5 Lt
+  
+
+2,50
+Crown Portakal Pet 250 Ml
+  
+
+9,90
+Crown Portakal 2,5l
+  
+
+11,75
+Schweppes Mandalina 1 Lt
+  
+
+12,90
+Fanta Portakal 2.5 Lt
+  
+
+5,50
+Schweppes Mandalina Kutu 200 Ml
+  
+
+6,50
+Fanta Portakal 330 Ml
+  
+
+10,50
+Fanta Portakal 1.5 Lt
+  
+
+4,90
+Crown Gazoz 330 Ml Kutu
+  
+
+5,90
+Crown Gazoz 1,5 Lt
+  
+
+10,25
+Çamlýca Gazoz 1.5 Lt
+  
+
+3,25
+Çamlýca Portakal 200 Ml
+  
+
+12,90
+Sprite Pet 2.5 Lt
+  
+
+8,00
+Sprite Þekersiz 1 Lt
+  
+
+6,50
+Sprite 330 Ml
+  
+
+17,90
+Çamlýca Gazoz 6*200 Ml
+  
+
+8,75
+Yedigün Blue Yaban Mersini - Portakal 1 Lt
+  
+
+25 TL üzeri indirimli
+32,95
+24,00
+Yedigün Portakal 4 X 1 Lt
+  
+
+13,90
+Söðütlüçeþme Karpuz-Çilek Gazlý Ýçecek 6x200 Ml
+  
+
+13,90
+Söðütlüçeþme Limon C Vitaminli Gazlý Ýçecek 6x200 Ml
+  
+
+
+25,00
+Fanta Portakal 4*1 Lt
+
+2,25
+Mis Meyve Nektarý Þeftali 200 Ml
+  
+
+2,25
+Mis Meyve Nektarý Portakal 200 Ml
+  
+
+2,25
+Mis Meyve Nektarý Viþne 200 Ml
+  
+
+2,25
+Mis Meyve Nektarý Kayýsý 200 Ml
+  
+
+2,25
+Mis Meyve Nektarý Karýþýk 200 Ml
+  
+
+2,90
+Cappy Atom 200 Ml
+  
+
+3,50
+Capri Sun Safari 200 Ml
+  
+
+3,50
+Capri Sun Multivitamin 200 Ml
+  
+
+6,00
+Cappy Pulpy Portakal 330 Ml
+  
+
+3,00
+Ülker Link Çilek 200 Ml
+  
+
+3,00
+Ülker Link Viþne 250 Ml
+  
+
+8,50
+Mis Meyve Nektarý Þeftali 1000ml
+  
+
+8,50
+Mis Meyve Nektarý Karýþýk 1 Lt
+  
+
+11,50
+Cappy Þeftali 1 lt
+  
+
+11,50
+Cappy Pulpy Portakal 1lt
+  
+
+11,50
+Cappy Karýþýk Meyve Nektarý 1 Lt
+  
+
+8,50
+Mis Meyve Nektarý Viþne 1000ml
+  
+
+8,50
+Mis Meyve Nektarý Kayýsý 1000ml
+  
+
+11,50
+Cappy Atom 1 Lt
+  
+
+9,90
+Cappy Ananaslý Ýçecek 1 Lt
+  
+
+2,90
+Cappy Karýþýk Meyve Nektarý 200 Ml
+  
+
+2,90
+Cappy Þeftali Nektarý 200 Ml
+  
+
+2,90
+Cappy Viþneli 200 Ml
+
+8,90
+Uludað Limonata 1 Lt
+  
+
+8,90
+Uludað Þekersiz Limonata 1 Lt
+  
+
+7,90
+Doðanay Þalgam Suyu Sade 1000 Ml
+  
+
+7,90
+Doðanay Þalgam Suyu Acýlý 1000 Ml
+
+Black Bruin Enerji Ýçeceði 250 Ml
+  
+
+11,95
+Red Bull Enerji Ýçeceði 250 Ml
+  
+
+20,95
+Red Bull Enerji Ýçeceði 473 Ml
+  
+
+9,95
+Black Bruin Enerji Içeceði 1000 Ml
+  
+
+3,95
+Black Bruin Þekersiz Enerji Içeceði 250 Ml
+
+6,75
+Lipton Ice Tea Þeftali 330 Ml.
+  
+
+6,75
+Lipton Ice Tea Limon 330 Ml.
+  
+
+8,50
+Lipton Ice Tea Þeftali Aromalý 1 lt
+  
+
+11,90
+Lipton Ice Tea Limon 2 Lt
+  
+
+11,90
+Lipton Ice Tea Þeftali 2 Lt
+  
+
+7,95
+Fuse Tea Þeftali Pet 1 lt
+  
+
+7,95
+Fuse Tea Karpuz Pet 1 Lt
+  
+
+7,95
+Fuse Tea Mango Ve Ananas 1 Lt
+  
+
+23,90
+Fuse Tea Þeftali Kutu 6*330 Ml
+  
+
+5,85
+Lezzcafe Latte 250 Ml
+  
+
+5,85
+Lezzcafe Mocha 250 Ml
+  
+
+11,95
+Nescafe Xpress Latte 250 Ml
+  
+
+11,95
+Nescafe Xpress Cafe Choco 250 Ml
+
+Maltana Ananas Aromalý Ýçecek 250 Ml
+
+7,50
+Powerade Ice Blast 500 Ml
+  
+
+4,90
+Black Bruin Multi Vitamin Ýçeceði 250 Ml
+  
+
+10,95
+Elite Smoothie Mor Cam 250 Ml
+  
+
+10,95
+Elite Smoothie Yeþil Cam 250 Ml
+  
+
+13,95
+Ýçim Fit Kakaolu Süt 500 Ml
+  
+
+13,95
+Ýçim Fit Süt Kahveli 500 Ml
+  
+
+7,90
+Dimes Milkshake Çilek Vanilya 310 Ml
+  
+
+7,90
+Dimes Milkshake Muz Kurabiye 310 Ml
+
+1,75
+Mis Ayran Bardak 200 Ml
+  
+
+3,50
+Mis Ayran 330 Ml
+  
+
+11,90
+Mis Ayran Þiþe 1500 Ml
+  
+
+16,90
+Ýçim Kefir 1000ml
+  
+
+17,90
+Ýçim Rahat Laktozsuz Kefir 1 Lt
+  
+
+20,90
+Ýçim Kefir Orman Meyveli 1 Lt
+  
+
+7,90
+Ýçim Kefir Orman Meyveli 260 ML
+  
+
+7,90
+Ýçim Kefir Sade 260 Ml
+  
+
+7,90
+Ýçim Kefir Çilekli 260 Ml
+
+Deren Çay Rize 1000gr
+  
+
+27,45
+Deren Çay Harman 1000gr
+  
+
+42,75
+Çaykur Rize Turist Çay 1000 Gr
+  
+
+44,50
+Çaykur Filiz Çay 1000 Gr
+  
+
+42,50
+Çaykur Tiryaki Çayý 1000 Gr
+  
+
+16,45
+Deren Bergamot Aromalý Çay 500gr
+  
+
+15,95
+Deren Filiz Çay 500 Gr
+  
+
+42,50
+Lipton Yellow Label Çay 1000 Gr
+  
+
+28,90
+Çaykur Altýnbaþ Çay 500 gr
+  
+
+41,50
+Lipton Doðu Karadeniz Çayý 1000 Gr
+  
+
+23,85
+Çaykur Tiryaki Çay 500 Gr
+  
+
+25,20
+Çaykur Rize Turist Çay 500 Gr.
+  
+
+11,95
+Deren Earl Grey Demlik Poþet 48'Li
+  
+
+17,70
+Lipton Yellow Label Bardak Poþet Çay 25'lý
+  
+
+7,95
+Deren Bardak Poþet Çay 25'li
+  
+
+21,90
+Deren Demlik Poþet Çay 100'lü 320 Gr
+  
+
+46,25
+Lipton Yellow Label Demlýk Poset Cay 100'lu 320 Gr
+  
+
+46,25
+Lipton Demlik Poþet Earl Grey 100'lü 320gr
+  
+
+13,50
+Lipton Doðu Karadeniz Bardak Poþet 25'li
+  
+
+17,70
+Lipton Earl Grey Bardak Poþet Çay 25 Li
+  
+
+6,25
+Deren Tomurcuk Bergamot 100 Gr
+  
+
+13,50
+Doðadan Bitki Çayý Ihlamur 18'li Poþet
+  
+
+11,20
+Çaykur Tomurcuk Çayý 125 Gr
+  
+
+13,50
+Doðadan Yeþil Çay Yumuþak Ýçimli 22 Gr
+  
+
+13,50
+Doðadan Limon-Zencefilli Bitki 18'li
+  
+
+13,50
+Doðadan Form Kiraz Saplý Bitki Çayý 20 li
+  
+
+13,50
+Doðadan Yeþil Çay Açaili Ananaslý 20 li
+  
+
+13,50
+Doðadan Kayýsýlý Form Bitki Çayý
+  
+
+37,50
+Tirebolu 42 Siyah Çay 1 Kg
+  
+
+13,50
+Doðadan Doðadan Bitki Çayý Papatya 20'li
+  
+
+29,95
+Deren Tiryaki Siyah Çay 1 Kg
+  
+
+57,45
+Deren Seylan Çayý 400 Gr
+  
+
+13,25
+Ýnci Ihlamur 50 Gr
+
+31,45
+Lezzcafe Klasik 200 Gr
+  
+
+37,45
+Lezzcafe Gold 200 Gr
+  
+
+10,50
+Lezzcafe Coffee Cream 200 Gr
+  
+
+20,95
+Nescafe Classýc 100 Gr Ekonomik Paket
+  
+
+42,05
+Nescafe Gold 100 Gr Ekonomik Paket
+  
+
+17,25
+Coffee Mate Coffee Mate 200 Gr Ekonomik Paket
+  
+
+1,25
+Lezzcafe 3ü1 Arada Fýndýklý 18 Gr
+  
+
+1,25
+Lezzcafe 2'si 1 Arada 12 Gr
+  
+
+1,25
+Lezzcafe 3ü 1 Arada 18gr
+  
+
+2,00
+Nescafe 3ü 1 Arada Sütlü Köpüklü 18 Gr
+  
+
+2,00
+Nescafe 2'si 1 Arada 10 Gr
+  
+
+2,00
+Nescafe 3'ü 1 Arada 17,5 Gr
+  
+
+1,75
+Cafe Crown 3in1 Action 17 Gr
+  
+
+2,45
+Cafe Crown Latte 17 Gr
+  
+
+2,50
+Nescafe Cappuccino Þekerli 14 Gr
+  
+
+2,50
+Nescafe Mocha 17.9 Gr
+  
+
+12,15
+Cafe Crown Fýndýklý 3in1 10lu 180 Gr
+  
+
+17,50
+Nescafe 2in1 10'lu Mp 110 Gr
+  
+
+17,50
+Nescafe 3'ü 1 Arada 18 Gr 10 Lu
+  
+
+17,50
+Nescafe Sütlü Köpüklü 3ü 1 Arada 10'lu Paket
+  
+
+1,50
+Lezzcafe Cappuccýno 14 Gr
+  
+
+9,90
+Yemeneli Türk Kahvesi 100 Gr
+  
+
+14,50
+Kurukahveci Mehmet Efendi Türk Kahvesi 100 Gr
+  
+
+32,75
+Nescafe Gold Espresso 80 Gr
+  
+
+55,95
+Jacobs Monarch Filtre Kahve 250 Gr
+  
+
+4,65
+Gourmet Selection Kahve Kremasý 10 x 7,5 ml
+
+
+
+10,00
+Nescafe Classic 20 x 2 Gr
+  
+
+
+19,00
+Jacobs Monarch Gold Kahve 100 Gr
+
+1,25
+Cafe Crown Sýcak Çikolata 23 Gr
+
+Nestle Nesquik Ekonomik Paket 375 Gr
+0 Adet
+
+2,65
+Mis Çikolatalý Süt 200 Ml
+
+

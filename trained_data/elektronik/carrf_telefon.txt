@@ -1,0 +1,452 @@
+"selection1_name"
+"Lenovo Tab M7 Tb-7306F 2-32 And-11 I.Grey"
+"Lenovo Tab M8 Mediatek Helio A22 Tablet"
+"Lenovo Ideapad5 I3-4GB-256GB-14"" Notebook"
+"Lenovo Tab M10 Tb-X306F 4-64 And I.Grey"
+"Dexim Km-108 Kablolu Klavye"
+"Lenovo Lecoo Bg01 15""- 15.9"" Inc Laptop Bolmeli Cok Fonksiyonlu Sirt Cantasi"
+"Philips M10 32GB 10.1"" IPS Tablet Gri"
+"Philips M9X 32GB 10.1"" IPS Tablet Gri"
+"Philips M10 Pro 4GB 64GB 10.1"" FHD Tablet Gri"
+"Lenovo Lecoo MG1102 8200 DPI 10 Gaming Mouse ve Mousepad Siyah"
+"Epson Ecotank L3251 Tankli Wifi Yazici"
+"Huawei Matebookd 15 I3 8 GB 256 GB W10H 15"
+"Logitech M171 Kablosuz Mouse Mavi"
+"Regal Tab 10.1"" 32 GB Ips Tablet Black"
+"Xiaomi Mipad 5 6 GB 256 GB 11"" Tablet Gri"
+"Lenovo Lecoo Ms107 3200 Dpi 7 Tuslu Kablolu Rgb Led Aydinlatmali Gaming Mouse Siyah"
+"Lenovo Lecoo Ms104 1600 Dpi 4 Tuslu Usb Kablolu Optik Mouse Siyah"
+"Lenovo Lecoo Ms101 1200 Dpi 3 Tuslu Usb Kablolu Optik Mouse Siyah"
+"Lenovo Lecoo Kw202 Kablosuz Turkce Q Klavye & Mouse Set Siyah"
+"Logitech G G213 Prodigy Oyuncu Klavyesi Siyah"
+"Lenovo Lecoo Cm101 Usb Kablolu Turkce Q Klavye & Mouse Set Siyah"
+"Lenovo Lecoo Ws202B 1600 Dpi 4 Tuslu Kablosuz Mouse Siyah"
+"Lenovo Lecoo Ws205 1600 Dpi 4 Tuslu Kablosuz Mouse Siyah"
+"Logitech M220 Sessiz Kablosuz Mouse Beyaz"
+"Lenovo Lecoo Cm103 Usb Kablolu Turkce Q Klavye & Mouse Set Siyah"
+"Lenovo Lecoo Kb102 Usb Kablolu Turkce Q Klavye Siyah"
+"Lenovo Lecoo Cm104 Usb Kablolu Turkce Q Klavye & Mouse Set Siyah"
+"RUSH RM11 LED AYDINLATMALI OYUNCU MOUSE"
+"Logitech G G402 Hyperion Fury Oyuncu Mouse"
+"Logitech M90 Optik USB Mouse Siyah"
+"Trilogic M13U 2X Click USB OP Mouse"
+"Lenovo Lecoo Kb103 Usb Kablolu Turkce Q Klavye Siyah"
+"Lenovo Lecoo Mg1101 6400 Dpi 8 Tuslu Kablolu Rgb Led Aydinlatmali Gaming Mouse Siyah"
+"RUSH RM12 LED AYDINLATMALI OYUNCU MOUSE"
+"Lenovo Lecoo KM2001 Kablosuz Turkce Q Klavye & Mouse Set Siyah"
+"Lenovo Lecoo Kw201 Kablosuz Turkce Q Klavye & Mouse Set Siyah"
+"Lenovo Lecoo Ms102 2400 Dpi 4 Tuslu Usb Kablolu Optik Mouse Siyah"
+"Lenovo Lecoo Ms105 3200 Dpi 6 Tuslu Kablolu Rgb Led Aydinlatmali Gaming Mouse Siyah"
+"Logitech M171 Red Wireless Mouse"
+"Logitech M170 Wireless Mouse Gri"
+"Logitech Z213 Multimedia Hoparlor Siyah"
+"Trilogic GP122 Digital Oyun Kolu"
+"Logitech M350 Pebble Kablosuz Mouse Siyah"
+"Lenovo Lecoo Ws204 1200 Dpi 3 Tuslu Kablosuz Mouse Siyah"
+"Lenovo Lecoo Kb101 Usb Kablolu Turkce Q Klavye Siyah"
+"Lenovo Lecoo Ms108 6400 Dpi 7 Tuslu Kablolu Rgb Led Aydinlatmali Gaming Mouse Siyah"
+"Lenovo Lecoo Kg1101 Usb Kablolu Rgb Led Aydinlatmali Gaming Mekanik Q Klavye Siyah"
+"Lenovo Lecoo M2001 1600 Dpi 4 Tuslu Kablosuz Mouse Siyah"
+"Lenovo Lecoo Ms106 3200 Dpi 7 Tuslu Kablolu Rgb Led Aydinlatmali Gaming Mouse Siyah"
+"Logitech MK120 Kablolu Set"
+"Logitech M105 Optik USB Mouse Siyah"
+"Lenovo Lecoo Ws203 2400 Dpi 4 Tuslu Kablosuz Mouse Siyah"
+"Lenovo Lecoo Gk301 Usb Kablolu Rgb Led Aydinlatmali Gaming Mekanik Q Klavye Metalik Gri"
+"Trilogic M32U Araba Model USB Mouse"
+"Logitech Z120 Stereo Speakers"
+"Logitech MK295 Kablosuz Klavye ve Mouse Seti"
+"Logitech MK235 Kablosuz Klavye ve Mouse"
+"Logitech G G203 Lightsync Oyuncu Mouse"
+"Trilogic KB103 Q/TR Kablolu USB Klavye"
+"Logitech G300S Gaming Mouse"
+"Logitech S120 Siyah Speaker"
+"Logitech M220 Sessiz Kablosuz Mouse Gul"
+"Lenovo Lecoo M1102 1200 Dpi 3 Tuslu Usb Kablolu Optik Mouse Siyah"
+"Lenovo Lecoo Ms103 1000 Dpi 3 Tuslu Usb Kablolu Optik Mouse Siyah"
+"Lenovo Lecoo Cm102 Usb Kablolu Turkce Q Klavye & Mouse Set Siyah"
+"Everest CM-675 Optik Kablosuz Mouse"
+"Huawei Matebook14 I7 16 GB +512 GB W10H 14"""
+"Casper Nirvana C350.4000-4C00E Intel Celeron N4000 4GB 120GB SSD Windows 10 Home 14"""
+"Kioxia Usb 32Gb Transmemory U301 Usb 3.2"
+"Kioxia Usb 64Gb Transmemory U301 Usb 3.2"
+"Kioxia Usb 32Gb Transmemory 2.0"
+"Kioxia Usb 128Gb Transmemory U301 Usb 3.2"
+"Kioxia Usb 128Gb Transmemory 2.0"
+"Kioxia Exceria Sd Kart 256 Gb U1 Uhs"
+"Kioxia Usb 64Gb Transmemory 2.0"
+"Kioxia Ssd 480Gb 2,5"" Exceria Sata"
+"Logitech M110 Sessiz Optik USB Mouse Gri"
+"Dexim Yuco Usb Mikrofon For Pc-Laptop"
+"Dexim Qualis Usb Mikrofon For Pc-Laptop"
+"Logitech M105 Optik USB Mouse Beyaz"
+"Dexim K-601 Kablolu Klavye"
+"Logitech M105 Optik USB Mouse Mavi"
+"Logitech K270 Kablosuz Klavye Siyah"
+"Dexim Prime B.Tooth Klavye-Beyaz"
+"Dexim Kablosuz Klavye-Mouse Set"
+"Dexim Kbl322 Rgb Gaming Klavye"
+"Logitech MK270 TR Kablosuz Klavye Mouse"
+"Dexim Fx-83 Isikli Kablolu Mouse"
+"Dexim Prime Kablosuz Mouse-Red"
+"Dexim Mw-013 Kablosuz Mouse-Siyah"
+"Dexim Mw-036 Kablosuz Mouse-Siyah"
+"Alcatel Smart TAB 7'' Black Tablet"
+"Dexim M007 Wired Mouse"
+"Dexim Prime Kablosuz Mouse-Navy"
+"Dexim Gm105 Rgb Gaming Mouse"
+"Dexim Prime Kablosuz Mouse-Black"
+"Dexim Alfa Kablosuz Mouse-Red"
+"Dexim M014 Wired Mouse"
+"Dexim Alfa Kablosuz Mouse-Silver"
+"Dexim Alfa Kablosuz Mouse-Black"
+"Dexim Alfa Kablosuz Mouse-Navy"
+"Logitech M185 Nano Kablosuz Mouse"
+"Epson Ecotank L3151 Tankli Wi-Fi Yazici"
+"Alcatel 1T 16GB 7"" Black Tablet"
+"Fluo Live 4.5G Tablet 8''"
+"Fluo Jazz Tablet 7''"
+"Denver Taq-90083 1GB+16GB 9'' Tablet"
+"Everest Everpad SC-725 Kirmizi Tablet"
+"Fluo Play8 Tablet"
+"Samsung T290 Gray Tablet"
+"Everest Everpad SC-725 Beyaz Tablet"
+"Denver Taq-10283 1GB/16GB 10.1'' Tablet"
+"Canon Pixma E414 Yazici"
+"Epson Ecotank L3110 Tankli Yazici"
+"Zalman F350 Klavye"
+"Lenovo Lecoo Ws202W 1600 Dpi 4 Tuslu Kablosuz Mouse Beyaz"
+"RUSH RM05 LED AYDINLATMALI OYUNCU MOUSE"
+"Everest SgM-X9 Usb Siyah gaming Mouse (Mouse Pad Hediyeli)"
+"Everest Round KM-6282 Siyah Kablosuz Q Multimedia Klavye + Mouse Set"
+"RUSH RM01 LED AYDINLATMALI OYUNCU MOUSE"
+"Logitech K400 Plus Smart Kablosuz TV Klavyesi"
+"Logitech M171 Kablosuz Mouse Siyah"
+"Everest Rampage KB-R01 MAK.Q Oyun Klavyesi"
+"Logitech K120 Klavye"
+"Everest SM-245R Nano Kablosuz Mouse"
+"Everest Original SC-HD03 1080P Full HD Metal Tripod Hediyeli Webcam Usb Pc Kamera"
+"Hytech HY-PG10 Telefon uyumlu Tetikli Siyah Gamepad"
+"Everest SM-506 Kablosuz Mouse"
+"Everest SM-340 Usb Siyah 3D Optik Super Sessiz Alkalin Pilli Kablosuz Mouse"
+"Everest SM-803 USB Siyah Kablosuz Mouse"
+"Everest SgM-X7 gamer Mouse"
+"Everest Rampage SgM-RX9 gaming 00 (Mouse Pad Hediyeli)"
+"TP-Link TL-WA850RE 300Mbps Evrensel Wi-Fi"
+"Everest Round KM-6282 Siyah/Kirmizi Kablosuz Q Multimedia Klavye + Mouse Set"
+"Everest SM-861 Usb Kirmizi 800/1200/1600dpi Super Sessiz Kablosuz Mouse"
+"Lenovo Lecoo Ws202G 1600 Dpi 4 Tuslu Kablosuz Mouse Gri"
+"Logitech G G203 Lightsync Oyuncu Mouse Siyah"
+"Everest SgM-X8 Usb Siyah gaming Mouse Pad ve Oyuncu Mouse"
+"Everest KB-250U Siyah Usb Q Mu ltimedia K"
+"Everest SM-340 Usb Mor 3D Optik Super Sessiz Alkalin Pilli Kablosuz Mouse"
+"TP-Link TD-W9960 VDSL Fiber Modem"
+"Everest KB-971U Kablolu Klavye"
+"TP-Link VR1200 1200 MBPS VDSL Modem"
+"Everest SM-360 Usb Mor 3D Optik Super Sessiz Alkalin Pil Kablosuz Mouse"
+"Everest Round KM-6282 Kirmizi-Siyah Kablosuz Q Multimedia Klavye + Mouse Set"
+"Everest SC-825 300K 480p Usb Mikrofonlu Gorus Ledli Pc Kamera"
+"Logitech C270 HD Webcam Siyah"
+"Logitech M280 Kablosuz Mouse"
+"Huawei Matebookd 16 R5 8 GB 512 GB W10H 16"
+"Lenovo Ideapad 1 Celeron N4020 1.1GHZ-4GBRAM-128GB Ssd-14""-Int-W10 Notebook"
+"Kingston DTIG4 16 GB USB 3.0 Flash Bellek"
+"Hytech HY-XO45 Gri 2in1 bluetooth Sarj+Kulaklik Metal Cevirici Adaptor"
+"Trilogic Fly TW3 AND. Tvbox Pc Kumanda Klavye"
+"Addison ANC-40D Notebook Sogutucu Stand"
+"S-Link Slx-NT35 Notebook Sogutucu"
+"Hytech HY-XO35 Gumus 2 in 1 Sarj+Kulaklik Metal Govdeli Cevirici"
+"Addison 300492 15.6-16 Gri Bilgisayar Notebook Sirt Cantasi"
+"Everest EFN-482 Metal Siyah Usb Fan"
+selection1_name,selection1_url
+Reeder S1 Max Akilli Saat Altin,https://www.carrefoursa.com/reeder-s1-max-akilli-saat-altin--p-30322671
+Mojue Micro Usb Kablosu Mor,https://www.carrefoursa.com/mojue-micro-usb-kablosu-mor-p-30254452
+Mojue Micro Usb Kablosu Beyaz,https://www.carrefoursa.com/mojue-micro-usb-kablosu-beyaz-p-30254449
+Mojue Iphone Şarj Kablosu Siyah,https://www.carrefoursa.com/mojue-iphone-sarj-kablosu-siyah-p-30254458
+Mojue Type-C Şarj Kablosu Beyaz,https://www.carrefoursa.com/mojue-type-c-sarj-kablosu-beyaz-p-30254444
+Mojue Micro Usb Kablosu Siyah,https://www.carrefoursa.com/mojue-micro-usb-kablosu-siyah-p-30254453
+Mojue iPhone Şarj Kablosu Beyaz,https://www.carrefoursa.com/mojue-iphone-sarj-kablosu-beyaz-p-30254454
+Mojue Type-C Şarj Kablosu Kirmizi,https://www.carrefoursa.com/mojue-type-c-sarj-kablosu-kirmizi-p-30254445
+Mojue Micro Usb Kablosu Mavi,https://www.carrefoursa.com/mojue-micro-usb-kablosu-mavi-p-30254451
+Mojue iPhone Şarj Kablosu Kirmizi,https://www.carrefoursa.com/mojue-iphone-sarj-kablosu-kirmizi-p-30254455
+Xiaomi Redmi Buds 3 Bluetooth Kulaklik Beyaz,https://www.carrefoursa.com/xiaomi-redmi-buds-3-bluetooth-kulaklik-beyaz-p-30370090
+Xiaomi Redmi 9T 4/64 GB Gri,https://www.carrefoursa.com/xiaomi-redmi-9t-4-64-gb-gri-p-30332206
+Dexim Tb-10 10000Mah Powerbank Typec Kirmizi,https://www.carrefoursa.com/dexim-tb-10-10000mah-powerbank-typec-kirmizi-p-30383926
+Dexim A20 10000Mah Powerbank - Square,https://www.carrefoursa.com/dexim-a20-10000mah-powerbank-square-p-30383928
+Samsung Note 20 256 GB Bronze,https://www.carrefoursa.com/samsung-note-20-256-gb-bronze-p-30298083
+Oppo A54 128 GB Yildizli Mavi,https://www.carrefoursa.com/oppo-a54-128-gb-yildizli-mavi-p-30345289
+Tecno Pova LD7 6GB/128GB Mor Akilli Telefon,https://www.carrefoursa.com/tecno-pova-ld7-6gb-128gb-mor-akilli-telefon-p-30305044
+Samsung M12 4/64 GB Yeşil,https://www.carrefoursa.com/samsung-m12-4-64-gb-yesil-p-30370731
+Oppo A55 64 GB Gokkuşagi Mavisi,https://www.carrefoursa.com/oppo-a55-64-gb-gokkusagi-mavisi--p-30370922
+Oppo A55 64 GB Işiltili Siyah,https://www.carrefoursa.com/oppo-a55-64-gb-isiltili-siyah-p-30370921
+Iphone Se 128 GB White Yeni,https://www.carrefoursa.com/iphone-se-128-gb-white-yeni-p-30301690
+Iphone Se 128 GB Black Yeni,https://www.carrefoursa.com/iphone-se-128-gb-black-yeni-p-30301689
+Switel BCE 25 Gece Lambali Bebek Telsizi,https://www.carrefoursa.com/switel-bce-25-gece-lambali-bebek-telsizi-p-30209198
+Switel BCE 27 Gece Lambali Bebek Telsizi,https://www.carrefoursa.com/switel-bce-27-gece-lambali-bebek-telsizi-p-30209197
+Ttec Alumicable Micro Usb Şarj Kablosu Haki Yeşili,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-haki-yesili-p-30233993
+Ttec Alumicable Mini 30 cm Micro Usb Şarj Kablosu Siyah,https://www.carrefoursa.com/ttec-alumicable-mini-30-cm-micro-usb-sarj-kablosu-siyah-p-30234005
+Ttec Alumicable Micro Usb Şarj Kablosu Kirmizi,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-kirmizi-p-30233994
+Ttec Micro Usb Kablosu Siyah,https://www.carrefoursa.com/ttec-micro-usb-kablosu-siyah-p-30258982
+Ttec Alumicable Micro Usb Şarj Kablosu Roze Altin,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-roze-altin-p-30233998
+Ttec Vogue Microusb Şarj Kablosu Gumuş,https://www.carrefoursa.com/ttec-vogue-microusb-sarj-kablosu-gumus-p-30364583
+Ttec Alumicable Micro Usb Şarj Kablosu Altin,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-altin-p-30190445
+Ttec Alumicable Micro Usb Şarj Kablosu Uzay Grisi,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-uzay-grisi-p-30190446
+Ttec Alumicable Micro Usb Şarj Kablosu Gumuş,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-gumus-p-30233992
+Ttec Type-C Şarj Kablosu Beyaz,https://www.carrefoursa.com/ttec-type-c-sarj-kablosu-beyaz-p-30179339
+Ttec Alumicable iPhone Şarj Kablosu Altin,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-altin-p-30193294
+Ttec Alumicable Micro Usb Şarj Kablosu Pembe,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-pembe-p-30233997
+Ttec Alumicable Micro Usb Şarj Kablosu Lacivert,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-lacivert-p-30233995
+Ttec Alumicable Micro Usb Şarj Kablosu Mor,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-mor-p-30233996
+Ttec Alumicable Mini 30Cm Micro Usb Şarj Kablosu Uzay Grisi,https://www.carrefoursa.com/ttec-alumicable-mini-30cm-micro-usb-sarj-kablosu-uzay-grisi-p-30234006
+Ttec Minicable 30 cm Micro Usb Kablosu Beyaz,https://www.carrefoursa.com/ttec-minicable-30-cm-micro-usb-kablosu-beyaz-p-30179343
+Ttec Alumicable Micro Usb Şarj Kablosu Siyah,https://www.carrefoursa.com/ttec-alumicable-micro-usb-sarj-kablosu-siyah-p-30233999
+Ttec Alumicable Type-C Şarj Kablosu Roze Altin,https://www.carrefoursa.com/ttec-alumicable-type-c-sarj-kablosu-roze-altin-p-30234002
+Ttec Alumicable iPhone Şarj Kablosu Kirmizi,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-kirmizi-p-30193297
+Yenilenmiş Xiaomi Xiaomi Mi 8 Lite 64 GB Siyah Mukemmel,https://www.carrefoursa.com/yenilenmis-xiaomi-xiaomi-mi-8-lite-64-gb-siyah-mukemmel-p-30376803
+Yenilenmiş Iphone 6S Plus 64 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-64-gb-altin-cok-iyi-p-30362235
+Yenilenmiş Iphone 8 64 GB Uzay Grisi Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-64-gb-uzay-grisi-iyi-p-30362042
+Yenilenmiş Iphone 8 Plus 64 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-plus-64-gb-altin-cok-iyi-p-30362006
+Yenilenmiş Iphone 7 Plus 32GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-32gb-gumus-mukemmel-p-30362110
+Yenilenmiş Iphone 8 Plus 64GB Gumuş Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-plus-64gb-gumus-iyi-p-30362002
+Yenilenmiş Iphone 8 Plus 64GB Altin Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-plus-64gb-altin-iyi-p-30362005
+Yenilenmiş Iphone 7 Plus 32GB Mat Siyah Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-32gb-mat-siyah-mukemmel-p-30362107
+Yenilenmiş Iphone 7 32GB Pembe Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32gb-pembe-iyi-p-30362163
+Yenilenmiş Iphone 6S 128 GB Uzay Grisi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-128-gb-uzay-grisi-mukemmel-p-30362338
+Yenilenmiş Iphone 6S 32 GB Uzay Grisi Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-uzay-grisi-iyi-p-30362306
+Samsung M22 4/128 GB Beyaz,https://www.carrefoursa.com/samsung-m22-4-128-gb-beyaz-p-30383739
+Omix X500 4+128 GB Mavi,https://www.carrefoursa.com/omix-x500-4-128-gb-mavi-p-30370579
+Yenilenmiş Iphone 6S 64 GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-64-gb-gumus-mukemmel-p-30362300
+Yenilenmiş Iphone 7 Plus 32GB Parlak Siyah Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-32gb-parlak-siyah-mukemmel-p-30362104
+Yenilenmiş Iphone 6S 16 GB Uzay Grisi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-16-gb-uzay-grisi-mukemmel-p-30362321
+Yenilenmiş Iphone X 64 GB Uzay Grisi Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-x-64-gb-uzay-grisi-cok-iyi-p-30361875
+Yenilenmiş Iphone X 64 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-x-64-gb-gumus-cok-iyi-p-30361919
+Yenilenmiş Iphone 6S 64 GB Uzay Grisi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-64-gb-uzay-grisi-mukemmel-p-30362288
+Yenilenmiş Iphone 6S 32 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-altin-cok-iyi-p-30362320
+Yenilenmiş Iphone 6S 32 GB Altin Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-altin-iyi-p-30362319
+Yenilenmiş Iphone 7 128 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-128-gb-altin-cok-iyi-p-30362218
+Yenilenmiş Samsung Galaxy S20 128 GB Mavi Cok Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s20-128-gb-mavi-cok-iyi-p-30376275
+Yenilenmiş Iphone 6S 64 GB Pembe Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-64-gb-pembe-mukemmel-p-30362294
+Yenilenmiş Iphone 6S 64 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-64-gb-gumus-cok-iyi-p-30362302
+Yenilenmiş Iphone 7 128 GB Altin Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-128-gb-altin-mukemmel-p-30362216
+Yenilenmiş Iphone 8 64 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-64-gb-gumus-cok-iyi-p-30362055
+Yenilenmiş Iphone 8 64 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-64-gb-altin-cok-iyi-p-30362058
+Yenilenmiş Iphone 7 32 GB Mat Siyah Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-mat-siyah-iyi-p-30362169
+Yenilenmiş Iphone 7 32 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-gumus-cok-iyi-p-30362173
+Yenilenmiş Iphone 6 32 GB Uzay Grisi Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6-32-gb-uzay-grisi-cok-iyi-p-30362375
+Yenilenmiş Iphone 6 32 GB Altin Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6-32-gb-altin-iyi-p-30362389
+Samsung M22 4/128 GB Acik Mavi,https://www.carrefoursa.com/samsung-m22-4-128-gb-acik-mavi-p-30383738
+Yenilenmiş Samsung Galaxy S20 Ultra 128 GB Siyah,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s20-ultra-128-gb-siyah-p-30376429
+Yenilenmiş Samsung Galaxy S20 128 GB Gri Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s20-128-gb-gri-iyi-p-30376267
+Yenilenmiş Iphone 6S Plus 16 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-16-gb-gumus-cok-iyi-p-30362267
+Yenilenmiş Iphone 7 128 GB Parlak Siyah Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-128-gb-parlak-siyah-mukemmel-p-30362207
+Yenilenmiş Iphone 6S Plus 16 GB Uzay Grisi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-16-gb-uzay-grisi-mukemmel-p-30362253
+Yenilenmiş Iphone 6S 32 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-gumus-cok-iyi-p-30362318
+Yenilenmiş Iphone 6S 32 GB Pembe Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-pembe-iyi-p-30362312
+Yenilenmiş Iphone 6S Plus 16 GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-16-gb-gumus-mukemmel-p-30362265
+Yenilenmiş Iphone 6S 64 GB Altin Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-64-gb-altin-mukemmel-p-30362303
+Yenilenmiş Iphone 7 128 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-128-gb-gumus-cok-iyi-p-30362215
+Yenilenmiş Iphone 7 32 GB Altin Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-altin-iyi-p-30362175
+Yenilenmiş Iphone 7 Plus 32GB Parlak Siyah Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-32gb-parlak-siyah-cok-iyi-p-30362106
+Yenilenmiş Iphone 6 32 GB Uzay Grisi Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6-32-gb-uzay-grisi-iyi-p-30362374
+Yenilenmiş Samsung Galaxy S20 128 GB Gri Mukemmel,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s20-128-gb-gri-mukemmel-p-30376268
+Yenilenmiş Iphone 8 Plus 64 GB Uzay Grisi Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-plus-64-gb-uzay-grisi-iyi-p-30361991
+Yenilenmiş Iphone 6 64 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6-64-gb-altin-cok-iyi-p-30362372
+Yenilenmiş Iphone 7 128 GB Mat Siyah Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-128-gb-mat-siyah-iyi-p-30362211
+Yenilenmiş Iphone 7 32 GB Mat Siyah Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-mat-siyah-cok-iyi-p-30362170
+Yenilenmiş Iphone 6S 32 GB Uzay Grisi Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-uzay-grisi-cok-iyi-p-30362307
+Yenilenmiş Iphone 6S 32 GB Pembe Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-pembe-mukemmel-p-30362311
+Yenilenmiş Iphone 6S Plus 32 GB Altin Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-32-gb-altin-mukemmel-p-30362250
+Yenilenmiş Iphone 8 64 GB Uzay Grisi Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-64-gb-uzay-grisi-cok-iyi-p-30362043
+Yenilenmiş Iphone 8 64GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-8-64gb-gumus-mukemmel-p-30362053
+Yenilenmiş Iphone 7 Plus 32GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-32gb-gumus-cok-iyi-p-30362112
+Yenilenmiş Iphone 7 32 GB Pembe Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-pembe-mukemmel-p-30362162
+Yenilenmiş Iphone 7 32 GB Parlak Siyah Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-parlak-siyah-mukemmel-p-30362165
+Yenilenmiş Iphone 6 16 GB Uzay Grisi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6-16-gb-uzay-grisi-mukemmel-p-30362391
+Yenilenmiş Iphone 6 16 GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6-16-gb-gumus-mukemmel-p-30362403
+Yenilenmiş Iphone 6S 16 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-16-gb-altin-cok-iyi-p-30362337
+Yenilenmiş Iphone 6 128 GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6-128-gb-gumus-mukemmel-p-30362421
+Yenilenmiş Iphone 8 Plus 64 GB Altin Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-8-plus-64-gb-altin-mukemmel-p-30362004
+Yenilenmiş Iphone 6S 64 GB Altin Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-64-gb-altin-iyi-p-30362304
+Yenilenmiş Iphone 6S Plus 64 GB Gumuş Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-64-gb-gumus-iyi-p-30362232
+Yenilenmiş Iphone 7 32 GB Altin Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-altin-cok-iyi-p-30362176
+Yenilenmiş Iphone 7 32 GB Gumuş Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-32-gb-gumus-iyi-p-30362172
+Yenilenmiş Iphone 6 64 GB Gumuş Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6-64-gb-gumus-iyi-p-30362368
+Yenilenmiş Iphone 6 64 GB Gumuş Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6-64-gb-gumus-mukemmel-p-30362367
+Yenilenmiş Iphone 6 128 GB Altin Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6-128-gb-altin-mukemmel-p-30362424
+Yenilenmiş Iphone 6 128 GB Uzay Grisi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6-128-gb-uzay-grisi-mukemmel-p-30362409
+Lenovo Lecoo Es202 Kablosuz Bluetooth Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-es202-kablosuz-bluetooth-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377799
+Apple MHJE3TU/A 20W USB-C Guc Adaptoru,https://www.carrefoursa.com/apple-mhje3tu-a-20w-usb-c-guc-adaptoru-p-30354391
+Lenovo Lecoo Ew301W Kablosuz Tws Mikrofonlu Kulak Ici Kulaklik Beyaz,https://www.carrefoursa.com/lenovo-lecoo-ew301w-kablosuz-tws-mikrofonlu-kulak-ici-kulaklik-beyaz-p-30377843
+Lenovo Lecoo Es203 Kablosuz Bluetooth Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-es203-kablosuz-bluetooth-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377840
+Lenovo Lecoo Ew303W Kablosuz Tws Mikrofonlu Kulak Ici Kulaklik Beyaz,https://www.carrefoursa.com/lenovo-lecoo-ew303w-kablosuz-tws-mikrofonlu-kulak-ici-kulaklik-beyaz-p-30377847
+Lenovo Lecoo Es204 Kablosuz Bluetooth Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-es204-kablosuz-bluetooth-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377841
+Lenovo Lecoo Ew301B Kablosuz Tws Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-ew301b-kablosuz-tws-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377842
+Lenovo Lecoo Es201 Kablosuz Bluetooth Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-es201-kablosuz-bluetooth-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377798
+Mojue CH01 Arac Ici Telefon Tutucu-Siyah,https://www.carrefoursa.com/mojue-ch01-arac-ici-telefon-tutucu-siyah-p-30258980
+Mojue Type-C Şarj Kablosu Siyah,https://www.carrefoursa.com/mojue-type-c-sarj-kablosu-siyah-p-30254448
+Mojue iPhone Şarj Kablosu Mavi,https://www.carrefoursa.com/mojue-iphone-sarj-kablosu-mavi-p-30254456
+Mojue Type-C Şarj Kablosu Mavi,https://www.carrefoursa.com/mojue-type-c-sarj-kablosu-mavi-p-30254446
+Mojue Micro Usb Kablosu Kirmizi,https://www.carrefoursa.com/mojue-micro-usb-kablosu-kirmizi-p-30254450
+Mojue iPhone Şarj Kablosu Mor,https://www.carrefoursa.com/mojue-iphone-sarj-kablosu-mor-p-30254457
+Mojue Type-C Şarj Kablosu Mor,https://www.carrefoursa.com/mojue-type-c-sarj-kablosu-mor-p-30254447
+Xiaomi Poco X3 Pro 256 GB 8GB RAM Mavi Cep Telefonu,https://www.carrefoursa.com/xiaomi-poco-x3-pro-256-gb-8gb-ram-mavi-cep-telefonu-p-30322234
+Xiaomi Redmi 9T 64GB Turuncu,https://www.carrefoursa.com/xiaomi-redmi-9t-64gb-turuncu-p-30364511
+Xiaomi Redmi 9T 64GB Yeşil,https://www.carrefoursa.com/xiaomi-redmi-9t-64gb-yesil-p-30364512
+Samsung Note 20 Ultra N980F 256 GB Black,https://www.carrefoursa.com/samsung-note-20-ultra-n980f-256-gb-black-p-30384011
+Samsung A12 64 GB Siyah,https://www.carrefoursa.com/samsung-a12-64-gb-siyah-p-30306001
+Samsung A12 64 GB Mavi,https://www.carrefoursa.com/samsung-a12-64-gb-mavi-p-30306000
+Reeder P13 Blue Max L 2022 64 GB Siyah,https://www.carrefoursa.com/reeder-p13-blue-max-l-2022-64-gb-siyah-p-30356137
+Reeder P13 Blue Max L 2022 64 GB Yeşil,https://www.carrefoursa.com/reeder-p13-blue-max-l-2022-64-gb-yesil-p-30356139
+Reeder P13 Blue Max L 2022 64 GB Beyaz,https://www.carrefoursa.com/reeder-p13-blue-max-l-2022-64-gb-beyaz-p-30356138
+Reeder P13 Blue Max L 2022 64 GB Blue,https://www.carrefoursa.com/reeder-p13-blue-max-l-2022-64-gb-blue-p-30356467
+Samsung Galaxy A52 128 GB Blue,https://www.carrefoursa.com/samsung-galaxy-a52-128-gb-blue-p-30323243
+Samsung Galaxy A52 128 GB White,https://www.carrefoursa.com/samsung-galaxy-a52-128-gb-white-p-30323245
+Samsung A21s 64GB Blue,https://www.carrefoursa.com/samsung-a21s-64gb-blue-p-30282547
+Tecno Spark 6 Go 4GB/64GB 6.52 Yeşil,https://www.carrefoursa.com/tecno-spark-6-go-4gb-64gb-6-52-yesil-p-30348955
+Samsung A21s 64GB White,https://www.carrefoursa.com/samsung-a21s-64gb-white-p-30282549
+Reeder P13 Blue Max Pro Lite 4 GB Ram 64GB Mavi,https://www.carrefoursa.com/reeder-p13-blue-max-pro-lite-4-gb-ram-64gb-mavi-p-30322675
+Samsung Galaxy S20FE Lavanta 128 GB,https://www.carrefoursa.com/samsung-galaxy-s20fe-lavanta-128-gb--p-30351980
+Reeder P13 Blue Max L 2021 64 Gb Blue,https://www.carrefoursa.com/reeder-p13-blue-max-l-2021-64-gb-blue-p-30360827
+Reeder P13 Blue Max L 2021 64 GB Black,https://www.carrefoursa.com/reeder-p13-blue-max-l-2021-64-gb-black-p-30360828
+Samsung M215F Galaxy M21 64 GB Yeşil,https://www.carrefoursa.com/samsung-m215f-galaxy-m21-64-gb-yesil-p-30370734
+Samsung M215F Galaxy 64 GB Siyah,https://www.carrefoursa.com/samsung-m215f-galaxy-64-gb-siyah-p-30370732
+Tecno Pova LD7 6 GB/128 GB 6.8 Siyah,https://www.carrefoursa.com/tecno-pova-ld7-6-gb-128-gb-6-8-siyah-p-30348953
+Tecno Pova LD7 6GB/128GB Mavi Akilli Telefon,https://www.carrefoursa.com/tecno-pova-ld7-6gb-128gb-mavi-akilli-telefon-p-30305045
+Samsung M215F Galaxy M21 64 GB Mavi,https://www.carrefoursa.com/samsung-m215f-galaxy-m21-64-gb-mavi-p-30370733
+Xiaomi Redmi Note 10S 6/128 GB White,https://www.carrefoursa.com/xiaomi-redmi-note-10s-6-128-gb-white-p-30369732
+Reeder P13 Blue 16 GB 3 GB RAM,https://www.carrefoursa.com/reeder-p13-blue-16-gb-3-gb-ram-p-30346623
+Ttec Compact Seyahat Şarj Aleti Lightning Kablolu 1000 mA Beyaz,https://www.carrefoursa.com/ttec-compact-seyahat-sarj-aleti-lightning-kablolu-1000-ma-beyaz-p-30179358
+Ttec Tone Bluetooth Kulaklik Beyaz,https://www.carrefoursa.com/ttec-tone-bluetooth-kulaklik-beyaz-p-30179292
+Ttec Alumicable iPhone Şarj Kablosu Gumuş,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-gumus-p-30193295
+Ttec Alumicable Iphone Şarj Kablosu Uzay Grisi,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-uzay-grisi-p-30193303
+Ttec Alumicable iPhone Şarj Kablosu Pembe,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-pembe-p-30193300
+S-Link SLX-3C USB iPhone Siyah Şarj Kablosu,https://www.carrefoursa.com/s-link-slx-3c-usb-iphone-siyah-sarj-kablosu-p-30159622
+S-link SMG-450 Micro Usb Akilli Telefonlar 2000MA 2 in 1 Ev Şarji ve Kablosu,https://www.carrefoursa.com/s-link-smg-450-micro-usb-akilli-telefonlar-2000ma-2-in-1-ev-sarji-ve-kablosu-p-30159627
+S-link SLP-135 Akilli Telefonlar ve Tablet 3400MA 2*Usb Port Arac Şarj Cihazi,https://www.carrefoursa.com/s-link-slp-135-akilli-telefonlar-ve-tablet-3400ma-2-usb-port-arac-sarj-cihazi-p-30159612
+Ttec Alumicable Type-C Şarj Kablosu Siyah,https://www.carrefoursa.com/ttec-alumicable-type-c-sarj-kablosu-siyah-p-30234003
+Hytech HY-X80 Renkli Kablo,https://www.carrefoursa.com/hytech-hy-x80-renkli-kablo-p-30240730
+S-Link SLX-3C USB iPhone Beyaz Şarj Kablosu,https://www.carrefoursa.com/s-link-slx-3c-usb-iphone-beyaz-sarj-kablosu-p-30159621
+S-link SLP-505 Akilli Telefonlar ve Tablet Micro Usb Siyah Data + Şarj Kablosu,https://www.carrefoursa.com/s-link-slp-505-akilli-telefonlar-ve-tablet-micro-usb-siyah-data-sarj-kablosu-p-30159620
+S-link IP-834 2000MA Ipad/P1000 12-24V 2Usb Arac Şarji,https://www.carrefoursa.com/s-link-ip-834-2000ma-ipad-p1000-12-24v-2usb-arac-sarji-p-30159586
+Ttec Alumicable Type-C Şarj Kablosu Gumuş,https://www.carrefoursa.com/ttec-alumicable-type-c-sarj-kablosu-gumus-p-30234001
+Ttec Trio Şarj Kablosu Type-C,Lightning,Micro Usb,https://www.carrefoursa.com/ttec-trio-sarj-kablosu-type-c-lightning-micro-usb-p-30234011
+Ttec Alumicable iPhone Şarj Kablosu Mor,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-mor-p-30193299
+S-link SLP-502 Beyaz Data + Şarj Kablosu iPhone 5/6 + iPad 4/5/Mini,https://www.carrefoursa.com/s-link-slp-502-beyaz-data-sarj-kablosu-iphone-5-6-ipad-4-5-mini-p-30159617
+S-link SLP-123 PRO 2100MA 2*Usb Arac Şarj Adaptoru,https://www.carrefoursa.com/s-link-slp-123-pro-2100ma-2-usb-arac-sarj-adaptoru-p-30159611
+Hytech HY-A20 Beyaz 1.3A Apple Kablo 1 m,https://www.carrefoursa.com/hytech-hy-a20-beyaz-1-3a-apple-kablo-1-m-p-30220388
+Ttec Macaron Mini Makarali Bluetooth Kulaklik Siyah,https://www.carrefoursa.com/ttec-macaron-mini-makarali-bluetooth-kulaklik-siyah-p-30179293
+Ttec Alumicable iPhone Şarj Kablosu Siyah,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-siyah-p-30193302
+Ttec Vogue Typec Şarj Kablosu Gumuş,https://www.carrefoursa.com/ttec-vogue-typec-sarj-kablosu-gumus-p-30364584
+Ttec Alumicable Type-C Şarj Kablosu Uzay Grisi,https://www.carrefoursa.com/ttec-alumicable-type-c-sarj-kablosu-uzay-grisi-p-30234004
+Ttec Alumicable Mini 30 cm Type-C Şarj Kablosu Uzay Grisi,https://www.carrefoursa.com/ttec-alumicable-mini-30-cm-type-c-sarj-kablosu-uzay-grisi-p-30234009
+Ttec Alumicable Mini 30 cm Type-C Şarj Kablosu Siyah,https://www.carrefoursa.com/ttec-alumicable-mini-30-cm-type-c-sarj-kablosu-siyah-p-30234008
+Ttec Alumicable Type-C Şarj Kablosu Altin,https://www.carrefoursa.com/ttec-alumicable-type-c-sarj-kablosu-altin-p-30234000
+Ttec 3.5Mm Stereo Premium Ses Kablosu 1M Siyah,https://www.carrefoursa.com/ttec-3-5mm-stereo-premium-ses-kablosu-1m-siyah-p-30179341
+Ttec Minicable 30 cm Iphone Şarj Kablosu Beyaz,https://www.carrefoursa.com/ttec-minicable-30-cm-iphone-sarj-kablosu-beyaz-p-30179342
+Ttec Tone Bluetooth Kulaklik Siyah,https://www.carrefoursa.com/ttec-tone-bluetooth-kulaklik-siyah-p-30179291
+Ttec Vogue Iphone Şarj Kablosu Gumuş,https://www.carrefoursa.com/ttec-vogue-iphone-sarj-kablosu-gumus-p-30364582
+Ttec Alumicable iPhone Şarj Kablosu Lacivert,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-lacivert-p-30193298
+S-link SLP-502 Siyah Data + Şarj Kablosu iPhone 5/6 + iPad 4/5/Mini,https://www.carrefoursa.com/s-link-slp-502-siyah-data-sarj-kablosu-iphone-5-6-ipad-4-5-mini-p-30159618
+S-link SLP-140 Akilli Telefonlar ve Tablet 5100MA 2*Usb Port Siyah/Beyaz Arac Şarj Cihazi,https://www.carrefoursa.com/s-link-slp-140-akilli-telefonlar-ve-tablet-5100ma-2-usb-port-siyah-beyaz-arac-sarj-cihazi-p-30159613
+S-link SMG-440 1300MA Micro Usb Akilli Telefonlar ve Siyah Tablet icin Data+Şarj Kablosu,https://www.carrefoursa.com/s-link-smg-440-1300ma-micro-usb-akilli-telefonlar-ve-siyah-tablet-icin-data-sarj-kablosu-p-30159624
+S-link IP-530 Gold iPhone 5 Data+Şarj Kablosu,https://www.carrefoursa.com/s-link-ip-530-gold-iphone-5-data-sarj-kablosu-p-30159588
+S-link IP-598 2000MA iPhone5/6/iPad Beyaz Şarj Kablosu,https://www.carrefoursa.com/s-link-ip-598-2000ma-iphone5-6-ipad-beyaz-sarj-kablosu-p-30159590
+Hytech HY-X82 2A Micro Usb Beyaz Şarj Kablosu 1m,https://www.carrefoursa.com/hytech-hy-x82-2a-micro-usb-beyaz-sarj-kablosu-1m-p-30238821
+Hytech HY-X90 2A iPhone Lightning Beyaz Şarj Kablosu 1m,https://www.carrefoursa.com/hytech-hy-x90-2a-iphone-lightning-beyaz-sarj-kablosu-1m-p-30238822
+Ttec Alumicable iPhone Şarj Kablosu Haki Yeşili,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-haki-yesili-p-30193296
+Ttec Alumicable iPhone Şarj Kablosu Roze Altin,https://www.carrefoursa.com/ttec-alumicable-iphone-sarj-kablosu-roze-altin-p-30193301
+Ttec Micro Usb Kablosu Beyaz,https://www.carrefoursa.com/ttec-micro-usb-kablosu-beyaz-p-30258981
+S-link SLP-505 Akilli Telefonlar ve Tablet Micro Usb Beyaz Data + Şarj Kablosu,https://www.carrefoursa.com/s-link-slp-505-akilli-telefonlar-ve-tablet-micro-usb-beyaz-data-sarj-kablosu-p-30159619
+S-link SLP-225 Akilli Telefonlar icin 2100MA 5V 2*Usb Giriş Ev Şarj,https://www.carrefoursa.com/s-link-slp-225-akilli-telefonlar-icin-2100ma-5v-2-usb-giris-ev-sarj-p-30159614
+S-link SLP-230 PRO 1000MA iPhone 5/6 Kablo + Ev Şarj Adaptor,https://www.carrefoursa.com/s-link-slp-230-pro-1000ma-iphone-5-6-kablo-ev-sarj-adaptor-p-30159616
+S-link SMG-444 Micro Usb Akilli Telefonlar 1000MA 2 in 1 Araba Şarji ve Kablosu,https://www.carrefoursa.com/s-link-smg-444-micro-usb-akilli-telefonlar-1000ma-2-in-1-araba-sarji-ve-kablosu-p-30159625
+S-link SLP-120 PRO 3100MA Siyah Cakmaktan 2*Usb Arac Şarji,https://www.carrefoursa.com/s-link-slp-120-pro-3100ma-siyah-cakmaktan-2-usb-arac-sarji-p-30159610
+Yenilenmiş Samsung Galaxy J6+ Plus 32 GB Mavi Cok,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-j6-plus-32-gb-mavi-cok-p-30375470
+Yenilenmiş Samsung Galaxy Note 20 Ultra 256 GB Siyah,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-note-20-ultra-256-gb-siyah-p-30375937
+Yenilenmiş Iphone XR 64GB Gumuş %85 Pil Sagligi,https://www.carrefoursa.com/yenilenmis-iphone-xr-64gb-gumus-85-pil-sagligi-p-30361527
+Yenilenmiş Samsung Z Fold2 256 GB Bakir Mukemmel,https://www.carrefoursa.com/yenilenmis-samsung-z-fold2-256-gb-bakir-mukemmel-p-30364449
+Yenilenmiş Iphone X 64 GB Gumuş %80 Pil Sagligi Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-x-64-gb-gumus-80-pil-sagligi-mukemmel-p-30361928
+Yenilenmiş Huawei Mate 10 Lite 64 GB Siyah Mukemm,https://www.carrefoursa.com/yenilenmis-huawei-mate-10-lite-64-gb-siyah-mukemm-p-30370960
+Yenilenmiş Xiaomi Xiaomi Redmi Note 8 Pro 64 GB Mukemmel,https://www.carrefoursa.com/yenilenmis-xiaomi-xiaomi-redmi-note-8-pro-64-gb-mukemmel-p-30377359
+Yenilenmiş Samsung Galaxy S20 Ultra 128 GB Siyah,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s20-ultra-128-gb-siyah-p-30376430
+Yenilenmiş Iphone 6S 16 GB Pembe Mukemmel,https://www.carrefoursa.com/yenilenmis-iphone-6s-16-gb-pembe-mukemmel-p-30362327
+Yenilenmiş Samsung Galaxy S10 128 GB Siyah Cok Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s10-128-gb-siyah-cok-iyi-p-30376115
+Yenilenmiş Xiaomi Xiaomi Mi 9T 128 GB Siyah Cok Iyi,https://www.carrefoursa.com/yenilenmis-xiaomi-xiaomi-mi-9t-128-gb-siyah-cok-iyi-p-30376933
+Yenilenmiş Huawei Y5 2019 16 GB Bakir Cok Iyi,https://www.carrefoursa.com/yenilenmis-huawei-y5-2019-16-gb-bakir-cok-iyi-p-30371561
+Yenilenmiş Samsung Galaxy S10E 128 GB Beyaz Cok Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s10e-128-gb-beyaz-cok-iyi-p-30364453
+Yenilenmiş Iphone 6S Plus 64 GB Uzay Grisi Cok Iy,https://www.carrefoursa.com/yenilenmis-iphone-6s-plus-64-gb-uzay-grisi-cok-iy-p-30362221
+Yenilenmiş Samsung Galaxy S9 64 GB Siyah Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s9-64-gb-siyah-iyi-p-30376576
+Yenilenmiş Samsung Galaxy S9+ (Plus) 64 GB Siyah,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-s9-plus-64-gb-siyah-p-30376663
+Yenilenmiş Samsung Galaxy A70 128 GB Beyaz Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-a70-128-gb-beyaz-iyi-p-30375142
+Yenilenmiş Samsung Galaxy Note 20 Ultra 256 GB Bakir,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-note-20-ultra-256-gb-bakir-p-30364452
+Yenilenmiş Samsung Z Fold2 256 GB Siyah Cok Iyi,https://www.carrefoursa.com/yenilenmis-samsung-z-fold2-256-gb-siyah-cok-iyi-p-30364446
+Yenilenmiş Huawei P40 Lite 128 GB Siyah Cok Iyi,https://www.carrefoursa.com/yenilenmis-huawei-p40-lite-128-gb-siyah-cok-iyi-p-30371500
+Yenilenmiş Samsung Galaxy J6+ Plus 32 GB Kirmizi Cok Iyi,https://www.carrefoursa.com/yenilenmis-samsung-galaxy-j6-plus-32-gb-kirmizi-cok-iyi-p-30375467
+Samsung Galaxy A52 128 GB Violet,https://www.carrefoursa.com/samsung-galaxy-a52-128-gb-violet-p-30323242
+Yenilenmiş Huawei Y7 2018 16 GB Siyah Iyi,https://www.carrefoursa.com/yenilenmis-huawei-y7-2018-16-gb-siyah-iyi-p-30371636
+Yenilenmiş Iphone 8 Plus 64 GB Gumuş Cok Iyi,https://www.carrefoursa.com/yenilenmis-iphone-8-plus-64-gb-gumus-cok-iyi-p-30362003
+Yenilenmiş Huawei Mate 20 Lite 64 GB Mavi Mukemme,https://www.carrefoursa.com/yenilenmis-huawei-mate-20-lite-64-gb-mavi-mukemme-p-30364455
+Yenilenmiş Iphone 7 Plus 128 GB Mat Siyah Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-128-gb-mat-siyah-iyi-p-30362148
+Yenilenmiş Huawei P20 Lite 64 GB Siyah Iyi,https://www.carrefoursa.com/yenilenmis-huawei-p20-lite-64-gb-siyah-iyi-p-30371186
+Yenilenmiş Huawei P20 Lite 64 GB Siyah Mukemmel,https://www.carrefoursa.com/yenilenmis-huawei-p20-lite-64-gb-siyah-mukemmel-p-30371187
+Yenilenmiş Iphone 7 Plus 128GB Pembe Iyi,https://www.carrefoursa.com/yenilenmis-iphone-7-plus-128gb-pembe-iyi-p-30362142
+Yenilenmiş Iphone 6S 32 GB Gumuş Iyi,https://www.carrefoursa.com/yenilenmis-iphone-6s-32-gb-gumus-iyi-p-30362317
+Yenilenmiş Huawei P40 Lite 128 GB Siyah Iyi,https://www.carrefoursa.com/yenilenmis-huawei-p40-lite-128-gb-siyah-iyi-p-30371501
+Mojue TWS Bluetooth Kulaklik Beyaz,https://www.carrefoursa.com/mojue-tws-bluetooth-kulaklik-beyaz-p-30323757
+TTEC Mypowerslim S 10.000 mAh Taşinabilir Şarj Aleti Siyah,https://www.carrefoursa.com/ttec-mypowerslim-s-10-000-mah-tasinabilir-sarj-aleti-siyah-p-30296883
+Ttec Speedcharger Şarj Aleti 2.1A Lightning Kablolu Beyaz,https://www.carrefoursa.com/ttec-speedcharger-sarj-aleti-2-1a-lightning-kablolu-beyaz-p-30193309
+S-link IP-8044 8000mAh 1A/2.1A 2*Usb Beyaz/Siyah Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-8044-8000mah-1a-2-1a-2-usb-beyaz-siyah-tasinabilir-pil-sarj-cihazi-p-30159603
+S-link IP-725 Kirmizi 2600mAh Powerbank Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-725-kirmizi-2600mah-powerbank-tasinabilir-pil-sarj-cihazi-p-30159594
+S-link IP-630 2000mAh Powerbank Şarj Aleti Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-630-2000mah-powerbank-sarj-aleti-tasinabilir-pil-sarj-cihazi-p-30159593
+Addison AD-S32 Kablolu Siyah/Mavi Selfie Cekim Cubugu,https://www.carrefoursa.com/addison-ad-s32-kablolu-siyah-mavi-selfie-cekim-cubugu-p-30159578
+Addison ADS-119 Universal Ayarlanabilir Siyah/Gri Arac Telefon Tutucu,https://www.carrefoursa.com/addison-ads-119-universal-ayarlanabilir-siyah-gri-arac-telefon-tutucu-p-30159571
+S-link Swapp SW-H10 Universal Ayarlanabilir Kirmizi Manyetik Arac Telefon Tutucu,https://www.carrefoursa.com/s-link-swapp-sw-h10-universal-ayarlanabilir-kirmizi-manyetik-arac-telefon-tutucu-p-30174758
+Ttec J10 Mikrofonlu Kulakici Kulaklik 3.5Mm Beyaz,https://www.carrefoursa.com/ttec-j10-mikrofonlu-kulakici-kulaklik-3-5mm-beyaz-p-30214845
+Mojue PB02 20.000 Mah Taşinabilir Şarj Aleti,https://www.carrefoursa.com/mojue-pb02-20-000-mah-tasinabilir-sarj-aleti-p-30254443
+Lenovo Lecoo Ew302B Kablosuz Tws Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-ew302b-kablosuz-tws-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377844
+Everest Ever Fit W32 Akilli Bileklik,https://www.carrefoursa.com/everest-ever-fit-w32-akilli-bileklik-p-30271582
+Reeder S1 Max Akilli Saat Siyah,https://www.carrefoursa.com/reeder-s1-max-akilli-saat-siyah-p-30322672
+S-link IP-735 2400Mah Powerbank Şarj Aleti Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-735-2400mah-powerbank-sarj-aleti-tasinabilir-pil-sarj-cihazi-p-30159600
+S-Link IP-P22 4000mAh 1-2A Gold Powerbank,https://www.carrefoursa.com/s-link-ip-p22-4000mah-1-2a-gold-powerbank-p-30159604
+S-link IP-730 2400Mah Gri Powerbank Şarj Aleti Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-730-2400mah-gri-powerbank-sarj-aleti-tasinabilir-pil-sarj-cihazi-p-30159597
+Addison AD-S30 Kablolu Pembe Selfie Cekim Cubugu,https://www.carrefoursa.com/addison-ad-s30-kablolu-pembe-selfie-cekim-cubugu-p-30159576
+ADDISON ADS-119 SIYAH/MAVI TEL. TUTUCU,https://www.carrefoursa.com/addison-ads-119-siyah-mavi-tel-tutucu-p-30159572
+Ttec Easydrive Go Arac Ici Telefon Tutucu Paket,https://www.carrefoursa.com/ttec-easydrive-go-arac-ici-telefon-tutucu-paket-p-30240998
+TTEC Powercard SL 5000MAH Powerbank Siyah,https://www.carrefoursa.com/ttec-powercard-sl-5000mah-powerbank-siyah-p-30301922
+Mojue TW01 TWS Bluetooth Kulaklik,https://www.carrefoursa.com/mojue-tw01-tws-bluetooth-kulaklik-p-30316651
+S-link IP-8044 8000mAh 1A/2.1A 2*Usb Beyaz/Mavi Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-8044-8000mah-1a-2-1a-2-usb-beyaz-mavi-tasinabilir-pil-sarj-cihazi-p-30159602
+S-link IP-725 Siyah 2600mAh Powerbank Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-725-siyah-2600mah-powerbank-tasinabilir-pil-sarj-cihazi-p-30159595
+Addison AD-S30 Kablolu Siyah Selfie Cekim Cubugu,https://www.carrefoursa.com/addison-ad-s30-kablolu-siyah-selfie-cekim-cubugu-p-30159577
+Addison AD-S30 Kablolu Mavi Selfie Cekim Cubugu,https://www.carrefoursa.com/addison-ad-s30-kablolu-mavi-selfie-cekim-cubugu-p-30159575
+Ttec Easydrive Mini Arac Ici Telefon Tutucu,https://www.carrefoursa.com/ttec-easydrive-mini-arac-ici-telefon-tutucu-p-30212125
+Lenovo Lecoo Ew302W Kablosuz Tws Mikrofonlu Kulak Ici Kulaklik Beyaz,https://www.carrefoursa.com/lenovo-lecoo-ew302w-kablosuz-tws-mikrofonlu-kulak-ici-kulaklik-beyaz-p-30377845
+TTEC Mypowerslim S 10.000 mAh Taşinabilir Şarj Aleti Beyaz,https://www.carrefoursa.com/ttec-mypowerslim-s-10-000-mah-tasinabilir-sarj-aleti-beyaz-p-30296882
+S-Link IP-P22 4000mAh 1-2A Gumuş Powerbank,https://www.carrefoursa.com/s-link-ip-p22-4000mah-1-2a-gumus-powerbank-p-30159606
+S-link IP-725 Yeşil 2600mAh Powerbank Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-725-yesil-2600mah-powerbank-tasinabilir-pil-sarj-cihazi-p-30159596
+S-link IP-730 2400Mah Kirmizi Powerbank Şarj Aleti Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-730-2400mah-kirmizi-powerbank-sarj-aleti-tasinabilir-pil-sarj-cihazi-p-30159598
+S-link IP-S500 5000mAh Powerbank Mavi Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-s500-5000mah-powerbank-mavi-tasinabilir-pil-sarj-cihazi-p-30168185
+S-link IP-S500 5000mAh Powerbank Gold Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-s500-5000mah-powerbank-gold-tasinabilir-pil-sarj-cihazi-p-30168184
+Lenovo Lecoo Ew303B Kablosuz Tws Mikrofonlu Kulak Ici Kulaklik Siyah,https://www.carrefoursa.com/lenovo-lecoo-ew303b-kablosuz-tws-mikrofonlu-kulak-ici-kulaklik-siyah-p-30377846
+Mojue PB01 10.000 Mah Taşinabilir Şarj Aleti,https://www.carrefoursa.com/mojue-pb01-10-000-mah-tasinabilir-sarj-aleti-p-30254442
+S-link IP-S500 5000mAh Powerbank Siyah Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-s500-5000mah-powerbank-siyah-tasinabilir-pil-sarj-cihazi-p-30168183
+S-link IP-755 10400mAh Samsung Bataryali 2*Usb Beyaz Şarj Aleti Taşinabilir Pil Şarj Cihazi,https://www.carrefoursa.com/s-link-ip-755-10400mah-samsung-bataryali-2-usb-beyaz-sarj-aleti-tasinabilir-pil-sarj-cihazi-p-30159601
+"selection1_name"
+"Rubenis RBK-23 Masa Vantilatör"
+"Dijitsu VN27 Kumandalı Vantilatör"
+"Baymak Elegant Prime 12000 BTU A++ Klima"
+"Baymak Elegant Prıme 24Btu A++ Klima"
+"Dijitsu VN04 Sanayi Tipi Vantilatör"
+"Baymak Elegant Plus 12 A++ Inverter Klima"
+"Baymak Elegant Prime 9000 BTU A++ Klima"
+"Baymak Elegant Plus 09 A++ Inverter Klima"
+"Dijitsu VN06A Ayaklı Vantilatör"
+"Baymak Elegant Plus 18 A++ Inverter Klima"
+"Baymak Elegant Plus 24 A++ Inverter Klima"
+"Dijitsu VN11 130W Hava Soğutucu"
+"Denki 24 BTU A++ Invarter Klima"
+"Denki 18 BTU A++ Invarter Klima"
+"Dijitsu Ht 100 Hepa Fitreli Hava Temizleyici"
+"Sinbo SF-6783 Ayaklı Vantilatör"
+"Denki 12 BTU A++ Invarter Klima"
+"Denki 9 BTU A++ Invarter Klima"
+"Baymak Elegant Prıme 18Btu A++ Klima"
+"Dijitsu Ht 200 Hepa Fitreli Hava Temizleme"
